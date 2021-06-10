@@ -1,0 +1,716 @@
+synergy_0	azd1775 significantly improve cytotoxicity 5-fu p53-mutated colorectal cancer cell line ht29 cell decrease ic50 9.3 mum 3.5 mum 
+synergy_1	conclusion azd1775 enhance 5-fu cytotoxicity increase ds-dna break premature mitosis p53-mutated colorectal cancer cell 
+synergy_2	result indicate 7beta-ohc increase sensitivity tumor cell adriamycin vp-16 5-fu bleomycin various degree 7beta-ohc find reinforce susceptibility k562 adriamycin-resistant cell drug 
+synergy_3	compare basis equitoxic dose 1/9 ld50 bleomycin a6 exert much stronger growth inhibition colon cancer ht-29 xenograft nude mouse 5-fluorouracil mitomycin c inhibition rate 82 12 53 respectively 
+synergy_4	ratio value non-necrotic tumor tissue whole tumor tissue bleomycin a6 mitomycin c 5-fluorouracil 0.33 0.65 0.57 respectively 
+synergy_5	pc-3 cell line suramin plus cddp tnf synergistic whilst combination dxr 5-fu hpc antagonistic 
+synergy_6	cddp 5-fu increase icam-1 expression significantly sensitivity skov3 cell lak cell lysis well related icam-1 expression 
+synergy_7	furthermore p. peruviana cytotoxic effect less cisplatin 5-fu vero control cell line 
+synergy_8	investigate effect electroporation electrochemotherapy 5-fu cisplatin human ovarian clear-cell carcinoma cell line ovbh-1 epithelial ovarian carcinoma cell line skov-3 resistant cisplatin typically use ovarian cancer 
+synergy_9	electrochemotherapy cisplatin 5-fu show promising effect ovarian cell line recovery normal cell reveal 72 hour 
+synergy_10	observe sensitivity pc-3 cell line transfect pci-neo-sncg plasmid cisplatin ddp 5-fluorouracil 5-fu adriamycin adm vincristine vcr paclitaxel tax explore influence sncg expression effectiveness anti-tumor drug 
+synergy_11	experiment combination therapy chemotherapeutic agent combination tnp-470 100 mg/kg cisplatin 5 mg/kg show additive antitumor effect treat versus control 38 22 5 pc-3 carcinoma 5-fluorouracil adriamycin alone significantly inhibit mda-mb-231 tumor growth treat versus control 131 64 respectively 
+synergy_12	significantly sti571 increase ability cisplatin inhibit constitutive activation pi3k/akt bt-549 cell synergize camptothecin increase stability ikappab mda-mb-231 cell mda-mb-468 cell camptothecin 5-fluorouracil inhibit sti571-dependent activation stat3 
+synergy_13	ht-29 cell line pc-3 k-562 vero expose four concentration p. peruviana ethanolic leave stem extract also different concentration cisplatin 5-fluorouracil 5-fu use positive control 
+synergy_14	comparable antitumor effect 5-fluorouracil cisplatin colon-26 tumor model combined treatment 5-fluorouracil cisplatin result enhance tumor growth inhibitory effect 
+synergy_15	1-o-deacetylated 3-fluoro 4-fluoro analog acetylate d-galactosamine inhibit proliferation human prostate cancer cell line pc-3 cisplatin 5-fluorouracil ic50 28 3 mum 54 5 mum respectively 
+synergy_16	cell sensitivity irradiation chemotherapeutic drug include cisplatin pt doxorubicin dox mitomycin c mmc 5-fluorouracil 5-fu identify colony formation assay mmt method respectively 
+synergy_17	follow drug use two metabolic antagonist cytosine arabinoside ara-c 5-fluorouracil 5-fu three antibiotic adriamycin adm mitomycin c mmc peplomycin pep two alkylating agent nimustine hydrochloride acnu melphalan one vinca alkaloid vincristine vcr one drug cisplatin cddp 
+synergy_18	mcf-7 cell line combination suramin plus doxorubicin dxr cisplatin cddp 5-fluorouracil 5-fu tumour necrosis factor tnf result synergistic growth inhibition whilst combination miltefosine hpc antagonistic 
+synergy_19	work show new datum concern influence electrochemical reaction cisplatin 5-fluorouracil 5-fu cancer ovarian cell resistant standard therapy cisplatin comparison ect effect human primary fibroblast 
+synergy_20	pc-3 cell primarily sensitive cisplatin doxorubicin ht-29 cell sensitive fluorouracil doxorubicin 3-d collagen cell culture system use study cancer cell potential invasion relative sensitivity/resistance anticancer drug 
+synergy_21	nf-κb reporter cell establish treat 5-fluorouracil 5-fu dna/rna damaging oxaliplatin dna damaging camptothecin ctp topoisomerase inhibitor phleomycin radiomimetic erlotinib egfr inhibitor 
+synergy_22	follow order activity find mtx vlb / = dx cddp / = 5-fu jm-8 
+synergy_23	follow order activity find mtx vlb = dx cddp = 5-fu jm-8 
+synergy_24	clonogenic assay perform determine overall survival tumor cell treatment serm alone one three dose 5-fu mtx alone 5-fu mtx follow serm 
+synergy_25	hormone responsive breast cancer cell line mcf-7 t47d er cell line mda-231 treat either 4-hydroxy tamoxifen 4oht arzoxifene weekly course treatment 5-fluorouracil 5-fu methotrexate mtx 
+synergy_26	study design examine effect selenite combine cytotoxic agent use clinical protocol e.g. doxorubicine docetaxel 5-fluorouracil 5-fu methotrexate mtx mafosphamide mitomycin c gemcitabine etoposide cisplatin irinotecan oxaliplatin proliferation various carcinoma cell type 
+synergy_27	smear dna agarose gel see ccrf-cem f2 5-fu mithramycin treatment whilst ccrf-hsb cell show similar dna profile 5-fu mtx treatment 
+synergy_28	conclusion shrna-mediated knockdown merm1/wbscr22 attenuate h460 sensitivity sn-38 5-fu suggest merm1/wbscr22 involve chemosensitivity sn-38 5-fu h460 cell 
+synergy_29	vivo combination treatment sorafenib 5-fu equally effective respective monotherapy concern tumor proliferation 
+synergy_30	interestingly treatment either sorafenib 5-fu result significant decrease vegfr1 pdgfrβ expression intensity 
+synergy_31	colorectal cancer sensitivity towards sorafenib exist seem similarly effective 5-fu monotherapy 
+synergy_32	three human rcc cell line achn caki-1 caki-2 use assess sensitivity 5-fluorouracil 5fu sorafenib sunitinib alone combination use vitro cell survival assay 
+synergy_33	effect sorafenib single treatment versus 5-fluorouracil 5-fu single treatment combination therapy vivo proliferation target cytokine receptor/ligand expression analyze human colon cancer xenograft mouse model use ht29 tumor cell 
+synergy_34	suggest phenotype shift toward stemness induce sequential sunitinib treatment follow 5-fu treatment increase risk cancer recurrence 
+synergy_35	combined effect temozolomide ar-a014418 cell proliferation determine alamarblue assay isobologram method 
+synergy_36	hand datum inter intra-individual sensitivity bleomycin amifostine suggest individual metabolic/genetic difference factor relate lifestyle may responsible response variability 
+synergy_37	combinatorial treatment oxaliplatin bortezomib cause synergistic induction apoptosis mediate increase caspase activation 
+synergy_38	combinational treatment oxaliplatin bortezomib promote jnk-bcl-xl-bax pathway modulate synergistic effect mitochondria-dependent apoptotic pathway 
+synergy_39	effect pre-treatment 5-azacytidine determine regard cabazitaxel sensitivity 
+synergy_40	result indicate dna methylation pro-apoptotic cell-cycle regulatory gene may contribute cabazitaxel resistance pre-treatment 5-azacytidine may restore sensitivity cabazitaxel prostate cancer cell 
+synergy_41	conclusion cabazitaxel active docetaxel docetaxel-sensitive tumor model potent docetaxel tumor model innate acquire resistance taxane chemotherapy 
+synergy_42	cabazitaxel show improve therapeutic efficacy docetaxel abcc4-expressing prostate cancer cell 
+synergy_43	cabazitaxel effectively kill pc-3r cell mdr1 knockdown improve sensitivity pc-3r cell docetaxel cabazitaxel 
+synergy_44	docetaxel cabazitaxel sensitivity measure pc3 r3327-matlylu mll cell line use sulforhodamine b srb assay 
+synergy_45	result vitro cabazitaxel stabilize microtubule effectively docetaxel 10-fold potent docetaxel chemotherapy-resistant tumor cell ic50 range cabazitaxel 0.013-0.414 mumol/l docetaxel 0.17-4.01 mumol/l 
+synergy_46	particular note cabazitaxel active tumor poorly sensitive innately resistant docetaxel lewis lung pancreas p02 colon hct-8 gastric gxf-209 mammary uiso bca-1 acquire docetaxel resistance melanoma b16/txt 
+synergy_47	overexpression mir-181a parental cell confer docetaxel cabazitaxel resistance knockdown mir-181a taxr cell re-sensitize treatment docetaxel cabazitaxel mir-181a observe impact abcb1 expression activity protein previously demonstrate highly involve docetaxel resistance 
+synergy_48	overexpression mir-181a prostate cancer cell contribute resistance docetaxel cabazitaxel inhibition mir-181a expression restore treatment response 
+synergy_49	whether exist cross-resistance docetaxel next-generation taxane cabazitaxel poorly understand 
+synergy_50	addition antiandrogen bicalutamide enzalutamide previously demonstrate able resensitize taxane-resistant cell docetaxel inhibition abcb1 atpase activity also able resensitize resistant cell cabazitaxel treatment 
+synergy_51	aim work analyze enhancement anticancer effect trail paclitaxel cabazitaxel docetaxel whole population pc3 du145 prostate cancer cell also cd44 / cd24 prostate cancer stem cell 
+synergy_52	result study show treatment paclitaxel cabazitaxel docetaxel able enhance apoptosis induce trail even prostate cancer stem cell 
+synergy_53	taxanes docetaxel cabazitaxel utilize standard treatment regimen chemotherapy naive castration-resistant pca 
+synergy_54	coincubation pca cell fabp5 inhibitor docetaxel cabazitaxel produce synergistic cytotoxic effect vitro 
+synergy_55	ability drug synergize permit efficacious antitumor activity allow dosage docetaxel cabazitaxel lower potentially decrease taxane-resistance 
+synergy_56	viability cell treat docetaxel cabazitaxel determine water soluble tetrazolium salt wst assay 
+synergy_57	docetaxel commonly prescribe taxane mcrpc cabazitaxel approve patient unresponsive docetaxel 
+synergy_58	recently firstana trial first demonstrate absence superiority overall survival cabazitaxel docetaxel mcrpc patient 
+synergy_59	result find cabazitaxel inhibit proliferation crpc cell higher efficacy docetaxel vitro 
+synergy_60	surprisingly low-dose cabazitaxel induce cell death docetaxel mainly apoptosis 
+synergy_61	cell also show resistance taxane cabazitaxel cbz paclitaxel ptx classical inducer apoptosis trail 
+synergy_62	cisplatin carboplatin stable 2-h treatment 
+synergy_63	datum show dpr significantly better cytotoxic activity cisplatin carboplatin hl60 k562 carboplatin molt 4 cell show 12 43 time less inhibitory effect cfu-gm cisplatin carboplatin respectively 
+synergy_64	compound 2 3 exhibit substantial antigrowth property t47d cell whereas 3 exhibit ic50 value lower cisplatin carboplatin 4t1 cell line 
+synergy_65	additionally compound 2 3 capable arrest cell cycle a549 cell g0/g1 phase whereas cisplatin carboplatin arrest cell g2/m phase indicate difference mechanism suppression tumor cell growth 
+synergy_66	result conjunction lower nephro neurotoxicity carboplatin higher platinum level brain tissue treatment carboplatin encouraging result carboplatin clinical treatment brain tumor demonstrate study suggest carboplatin might preferable cisplatin treatment patient malignant glioma 
+synergy_67	explore activity dasatinib alone combination paclitaxel carboplatin ovarian cancer cell determine dasatinib activity predict base evaluation src pathway 
+synergy_68	txl inject i.v. daily four day either ndp cbdca cddp inject i.v. txl treatment tumor-bearing mouse 
+synergy_69	combination txl plus ndp synergistic superior txl plus cddp txl plus cbdca therapy 
+synergy_70	also compare antitumor activity txl plus ndp txl plus carboplatin cbdca txl plus cisplatin cddp 
+synergy_71	mk-2206 suppress akt phosphorylation induce carboplatin gemcitabine 
+synergy_72	determine vivo anti-tumor effect aerosolized celecoxib cxb combination i.v docetaxel doc compare anti-tumor effect oral cxb combine i.v doc human orthotopic non-small cell lung cancer nsclc xenograft model 
+synergy_73	evaluation in-vivo anticancer activity aerosolized celecoxib encapsulate nanolipidcarriers cxb-nlc single therapeutic agent combine intravenously administer docetaxel doc non-small cell lung cancer 
+synergy_74	result suggest aerosolized celecoxib significantly enhance vitro cytotoxicity apoptotic response docetaxel a549 h460 cell enhance activity mediate via alteration expression various molecular target involve apoptosis 
+synergy_75	a549 tumor treat either celecoxib 150 mg/kg/day docetaxel 10 mg/kg combination 
+synergy_76	combination celecoxib docetaxel significantly inhibit tumor growth p 0.03 compare celecoxib docetaxel alone decrease level pge2 10-fold increase 15-d pgj2 level 4-fold compare control 
+synergy_77	conclusion combination celecoxib docetaxel produce greater antitumor effect s.c. 
+synergy_78	a549 tumor compare celecoxib docetaxel alone effect associate concomitant alteration intratumor level pge2 15-d pgj2 
+synergy_79	objective study formulate docetaxel doc metered dose inhaler mdi assess aerodynamic characteristic evaluate effect celecoxib cxb cyclooxygenase-2 cox-2 inhibitor in-vitro cytotoxicity apoptotic response aerosolized doc human lung adenocarcinoma cell line a549 
+synergy_80	conclusion combined inhibition egfr cox‑2 gefitinib celecoxib may overcome docetaxel resistance human crpc 
+synergy_81	male scid mouse 8/group implant 786-o tumor piece treat either selective vegf receptor tyrosine kinase inhibitor axitinib 36 mg/kg 2 × / day c-met inhibitor crizotinib 25 mg/kg 1 × / day combination 
+synergy_82	target egfr c-src met individually combination carboplatin use gefitinib dasatinib crizotinib respectively panel carboplatin-sensitive ovcar-3 igrov-1 a2780 carboplatin-resistant cell skov-3 efo-21 
+synergy_83	result sorafenib sunitinib show highest apical/basolateral transfer papp 14.1 7.7 x 10-6 cm/s respectively follow dasatinib 3.4 afatinib 1.5 gefitinib 0.38 erlotinib 0.13 crizotinib n.d. 
+synergy_84	accumulation tki end transfer period b detectable erlotinib low afatinib 0.45 pmol/mug protein follow gefitinib 0.79 dasatinib 1.1 sorafenib 1.65 crizotinib 2.11 highest sunitinib 11.9 
+synergy_85	cam assay also mimic sensitivity alk-rearranged h2228 egfr-mutated h1975 nsclc cell tyrosine kinase inhibitor crizotinib gefitinib respectively well sensitivity lncap cell androgen-dependent enzalutamide therapy 
+synergy_86	present study mnp base drug delivery approach co-delivering potent chemotherapeutic drug curcumin herbal drug temozolomide dna methylating agent implement 
+synergy_87	several acyl derivative find superior dm-pen mx-1 human zr-75-1 breast tumor human u251 cns tumor p388 leukemia parent cell line line resistant cyclophosphamide carmustine 4-demethyl-4-methoxyacetylpenclomedine show inferior activity current clinical brain tumor drug glioma cell line superior activity temozolomide procarbazine derive mismatch repair-deficient cell line superior activity cyclophosphamide carmustine inferior activity temozolomide two ependymoma cell line implant s.c. 
+synergy_88	difference tumor growth occur animal treat either bcnu alone 50 mg/kg dtic alone 300 mg/kg dtic 150 mg/kg follow bcnu 12.5 mg/kg bcnu 25 mg/kg follow dtic 150 mg/kg 
+synergy_89	datum suggest methylating agent dtic may toxic use combination bcnu deplete tumor alkyltransferase level effectively increase therapeutic index bcnu 
+synergy_90	compare treatment dasatinib alone combined treatment dasatinib fulvestrant stronger inhibitory effect tamoxifen resistant cell growth whereas dasatinib combination tamoxifen additive inhibitory effect fulvestrant resistant growth 
+synergy_91	tamoxifen resistant t47d cell combined treatment dasatinib fulvestrant superior treatment dasatinib alone 
+synergy_92	moreover find nf-kappab activity significantly increase within 2 hour cisplatin docetaxel treatment nf-kappab induce activity agent completely abrogate cell pretreat genistein 
+synergy_93	drug transport study p-gp-over-expressing a549-taxol cell line show lapatinib erlotinib capable increase docetaxel accumulation clinically achievable concentration 
+synergy_94	result show synergistic effect present a549 cell treat docetaxel follow sorafenib a549/d cell treat reverse sequence 
+synergy_95	sunitinib together docetaxel 1,24 oh 2d3 exhibit potent anticancer activity a549 lung cancer model compare double combination treatment compound alone 
+synergy_96	human umbilical vein endothelial cell huvec nci-h460 human non-small lung carcinoma cell nci-h460 xenograft treat docetaxel sunitinib malate use concurrent sequential treatment schedule 
+synergy_97	moreover effect 1,24 oh 2d3 anticancer activity sunitinib sunitinib combination docetaxel examine a549 lung cancer model vivo 
+synergy_98	experiment aim evaluate cytotoxicity combination test agent reveal imatinib sunitinib together cisplatin docetaxel exert potent anti-proliferative effect vitro a549 lung cancer cell hlmec however 1,24 oh 2d3 1,25 oh 2d3 enhance cytotoxic effect endothelial cell 
+synergy_99	end animal bear du-145 human hormone-refractory prostate cancer hrpc xenograft treat sunitinib 40 mg/kg daily p.o. docetaxel 10 30 mg/kg/week i.v. combination sunitinib 40 mg/kg daily docetaxel 10 mg/kg/week vehicle alone 
+synergy_100	combination sunitinib low-dose 10mg/kg docetaxel produce tumor regression comparable obtain high-dose 30 mg/kg docetaxel tolerability higher indicate mouse weight 
+synergy_101	sunitinib docetaxel inhibit tumor regrowth initial treatment alternate drug 
+synergy_102	result suggest sunitinib alone combination low-dose docetaxel may role treatment hrpc 
+synergy_103	compare effect concurrent sequential administration docetaxel multi-target inhibitor sunitinib malate tumor cell xenograft study several mechanism involve drug interaction provide experimental datum support clinical use non-small cell lung cancer nsclc 
+synergy_104	docetaxel sunitinib malate effect inhibit erk1/2 phosphorylation sequential treatment docetaxel eliminate inhibitory activity sunitinib malate erk1/2 phosphorylation concurrent treatment 
+synergy_105	combined treatment sunitinib malate docetaxel greater therapeutic effect monotherapy first sequential scheduling effective concurrent scheduling partly due effect docetaxel receptor tyrosine kinase rtk signaling pathway 
+synergy_106	efficacy evofosfamide ifosfamide alone combination docetaxel sunitinib compare ectopic intrapleural othortopic h460 xenograft model animal expose ambient air different oxygen concentration breathing condition 
+synergy_107	mouse bear well-established pc3 prostate tumor mean tumor volume/treatment group approximately 250 mm 3 treat every week vehicle alone control sunitinib 40 mg/kg/day 5 days/week 3 week 0.2 ml p.o. cetuximab 0.2 mg/kg/day 5 days/week 3 week 0.2 ml i.p. docetaxel 10 mg/kg 1 day/week 3 week 0.2 ml i.p. 
+synergy_108	study ph gsh dual sensitive calcium phosphate-polymer hybrid nanoparticle dtx@cap / hp prepare co-deliver zoledronate zol docetaxel dtx treat bone metastasis prostate cancer 
+synergy_109	doxorubicin bortezomib combine tra-8 also reduce bcl-xl x-linked inhibitor apoptosis xiap treat cell 
+synergy_110	examine combination tra-8 doxorubicin bortezomib breast cancer cell 
+synergy_111	evaluate efficacy combination sorafenib erlotinib cetuximab 
+synergy_112	combine treatment sorafenib erlotinib cetuximab produce combination index value 0.02 0.5 suggest significant synergistic activity inhibit soft agar colony formation cancer cell line accompany marked blockade mitogen-activated protein kinase akt signal 
+synergy_113	nude mouse bear established human h1299 xenograft treatment combination sorafenib erlotinib cetuximab cause significant tumor growth delay result 70 90 day increase mouse median overall survival compare single-agent sorafenib treatment 
+synergy_114	conclusion combination treatment sorafenib erlotinib cetuximab synergistic antitumor effect human colorectal lung cancer cell 
+synergy_115	vitro egfr screening show compound 3a 3b 4a 4b 8a exhibit moderate inhibition towards egfr ic50 value micromolar level ic50 range 16.01-1.11 µm compare reference drug sorafenib ic50 = 1.14 µm erlotinib ic50 = 0.1 µm 
+synergy_116	however net absorption dasatinib afatinib crizotinib erlotinib highly negative efflux ratio 5 neutral/negative sorafenib 0.86 gefitinib 1.0 sunitinib 1.6 
+synergy_117	examine effect akt inhibition activity multiple widely use class antineoplastic agent human cancer cell line treat akt inhibitor a-443654 2s -1 1h-indol-3-yl -3 5 3-methyl-2h-indazol-5-yl pyridin-3-yl oxypropan-2-amine atp-competitive mk-2206 8 4 1-aminocyclobutyl phenyl -9-phenyl-2h 1,2,4 triazolo 3,4-f 1,6 naphthyridin-3-one dihydrochloride allosteric inhibitor small interfere rna sirna target phosphoinositide-dependent kinase 1 pdk1 along cisplatin melphalan camptothecin etoposide assay colony formation 
+synergy_118	use multiparameter cytometry explore effect etoposide temozolomide tmz three glioblastoma cell line different p53 status a172 t98g ykg-1 normal human astrocyte nha correlate drug-induced phosphorylate h2ax gammah2ax cell cycle phase induction apoptosis 
+synergy_119	letrozole exemestane able completely inhibit aromatase activity bg1 peo14 cell line 
+synergy_120	regard tumor volume reduction vivo zd4054 10 mg/kg equipotent fulvestrant 200 mg/kg exhibit additive effect anastrozole 0.5 mg/kg 
+synergy_121	fulvestrant enhance cytotoxicity mgmt-targeted alkylating agent namely temozolomide bcnu 3 4-fold er-alpha positive cell er-negative cell 
+synergy_122	aim study explore potential utility inhibit two pathway combination anastrozole gefitinib non-small cell lung cancer nsclc cell line 
+synergy_123	cell treat anastrozole gefitinib alone combination 
+synergy_124	result study suggest combination anastrozole gefitinib compare either drug alone maximally inhibit cell proliferation induce apoptosis affect downstream signaling pathway 
+synergy_125	concurrent administration sorafenib vinorelbine cisplatin gefitinib least efficacious individual agent alone well tolerate 
+synergy_126	gefitinib dasatinib treatment significantly disrupt arecoline-induced localization phospho-y576-fak focal adhesion a549 cell 
+synergy_127	dasatinib plus gefitinib combination synergistic ovcar-3 skov-3 igrov-1 cell high concentration 
+synergy_128	unlike platinum-based combination mix dasatinib gefitinib lead cytotoxic activity inhibition cell migration invasion 
+synergy_129	show al776 block egfr c-src intact structure use vitro kinase assay ic50 egfr = 0.12 μm ic50 c-src = 3 nm b release k1 al621 nanomolar egfr inhibitor k2 dasatinib clinically approve abl/c-src inhibitor hydrolytic cleavage vitro vivo c robustly inhibit phosphorylation egfr c-src 0.25-1 μm cell d induce 2-4 fold stronger growth inhibition gefitinib dasatinib apoptosis concentration low 1 μm e block motility invasion sub-micromolar dose highly invasive 4t1 mda-mb-231 cell 
+synergy_130	docetaxel follow gefitinib treatment optimum regimen regardless mutation status egfr kras 
+synergy_131	research aim explore cytotoxic interaction gefitinib docetaxel different concentration non-small-cell lung cancer cell line furthermore mechanism underlie cytotoxic synergism 
+synergy_132	cytotoxic interaction docetaxel gefitinib dose-dependent sequence-dependent three cell line 
+synergy_133	kras mutation egfr wild-type predict insensitive gefitinib docetaxel combined treatment well gefitinib alone 
+synergy_134	cytotoxic interaction docetaxel gefitinib sequence-dependent regardless mutation status egfr kras 
+synergy_135	sequential administration docetaxel follow gefitinib d → g induce significant synergistic effect cell line combination index 0.9 
+synergy_136	however clinically achievable level gefitinib moderately reverse pgp-mediated resistance paclitaxel docetaxel pgp overexpress cell 
+synergy_137	purpose compare efficacy safety epidermal growth factor receptor tyrosine kinase inhibitor monotherapy efgr-tki gefitinib erlotinib standard second-line chemotherapy single agent docetaxel pemetrex previously treat advanced non-small-cell lung cancer nsclc 
+synergy_138	compound 4d show superior activity methotrexate gefitinib sensitive leukemia cell line addition higher comparable activity rest sensitive cell line 
+synergy_139	gefitinib increase inhibitory effect mitoxantrone cell growth 
+synergy_140	result present study reveal first time possibility use combination mitoxantrone gefitinib cyclopamine inhibit growth epidermal growth factor egf sonic hedgehog shhnp serum-stimulated androgen-sensitive lncap-c33 androgen-independent ai lncap-c81 du145 pc3 prostate cancer pc cell 
+synergy_141	importantly combination mitoxantrone plus gefitinib and/or cyclopamine also cause higher rate apoptotic death pc cell include enriched fraction cd44 high pc3 cell subpopulation compare individual agent bi-combination drug 
+synergy_142	ten micromole gefitinib reverse topotecan sn-38 mitoxantrone resistance increase intracellular topotecan accumulation resistant cell parental cell 
+synergy_143	compound 1k show superior activity paclitaxel gefitinib sensitive cell line 
+synergy_144	analyze different effect three different combination schedule sn-38 active cpt-11 metabolite gefitinib gefitinib gefitinib simultaneously gefitinib sn-38 cell growth cell cycle apoptosis expression/phosphorylation egfr topo step signal transduction pathway 
+synergy_145	first determine ic 50 drug choose 5 day exposure gefitinib 0.6 3.8 microm lovo ht-29 cell respectively 1 day exposure sn-38 0.31 0.5 microm lovo ht-29 cell respectively 
+synergy_146	cytotoxicity gefitinib sn-38 combination schedule concentration-dependent cell line-specific 
+synergy_147	analysis bio-molecular target show gefitinib able modulate sn-38 ability inhibit topo accumulate cell s-phase induce apoptosis 
+synergy_148	confirm preliminary clinical experience gefitinib cytotoxic drug seem gefitinib sn-38 represent best cytotoxic combination schedule biomolecular basis synergism remain completely elucidate 
+synergy_149	gefitinib reverse sn-38 resistance bcrp-transduced human myelogenous leukemia k562 k562/bcrp bcrp-transduced murine lymphocytic leukemia p388 p388/bcrp cell parental cell 
+synergy_150	therefore investigate whether atra circumvent resistance improve response gefitinib nsclc/adc cell 
+synergy_151	use deab positive control direct inhibitory effect atra aldh1a1 activity determine aldefluor assay result gsc show higher expression aldh1a1 cd44 ic50 value gefitinib respective parental cell suggest gefitinib lead propagation csc-enriched gefitinib-resistant cell 
+synergy_152	treatment atra find significantly reduce increase expression aldh1a1 cd44 ic50 value gefitinib a549gsc h1650gsc cell atra directly inhibit active aldh1a1 compare deab 
+synergy_153	fact combination imatinib dasatinib show additive/synergistic growth inhibition wild-type p210 bcr-abl-expressing cell reason abl kinase inhibitor might induce different molecular pathway 
+synergy_154	k562 cell culture imatinib dasatinib 16 h gene expression datum obtain three independent microarray hybridization 
+synergy_155	finding demonstrate additive/synergistic growth inhibition imatinib dasatinib may mediate part cdk2 cdk8 
+synergy_156	preclinical datum indicate dasatinib 325-fold potent imatinib cell express wild-type bcr-abl dasatinib active 18 19 bcr-abl mutation know cause imatinib resistance 
+synergy_157	quantitative profiling drug imatinib gleevec dasatinib sprycel bosutinib k562 cell confirm known target include abl src family kinase identify receptor tyrosine kinase ddr1 oxidoreductase nqo2 novel target imatinib 
+synergy_158	result suggest expression protein activation signature identify study provide insight mechanism resistance dasatinib imatinib may therapeutic chronic myelogenous leukemia value clinically 
+synergy_159	investigate second-generation tyrosine kinase inhibitor dasatinib nilotinib potential overcome resistance imatinib-resistant k562 cell line evaluate whether rapamycin mammalian target rapamycin mtor inhibitor bortezomib proteasome inhibitor increase imatinib sensitivity resistant cell line 
+synergy_160	k562r due duplication autophosphorylation wild-type bcr-abl induce imatinib still partially resistant dasatinib nilotinib overcome incremental dosing 
+synergy_161	study development cml drug resistance vitro experimental system comprise cell line different resistance level establish expose k562 cell increase concentration imatinib dasatinib anticancer agent 
+synergy_162	investigate interplay three mode resistance three cml blast crisis cell line k562 abcb1-overexpressing variant k562 dox ku812 culture gradually increase concentration imatinib 2 μm dasatinib 200 nm 
+synergy_163	bcr/abl fusion tyrosine kinase express chronic myeloid leukemia philadelphia-positive ph acute lymphoblastic leukemia cell inhibition clinically use tyrosine kinase inhibitor imatinib dasatinib induce apoptosis cell 
+synergy_164	study use imatinib dasatinib well transient expression experiment 293t cell reveal pecam-1 phosphorylate directly bcr/abl enhance imatinib-resistant e255k t315i mutation partly src family tyrosine kinase include lyn activate dependently independently bcr/abl 
+synergy_165	eight compound test except imatinib dasatinib selectively inhibit aldh cell proliferation zebrafish 
+synergy_166	although dasatinib effective imatinib mesylate imt resistant chronic myeloid leukemia cml patient underlie mechanism effectiveness eliminate imatinib-resistant cell partially understand 
+synergy_167	bcr-abl inhibitor imatinib second-generation tyrosine kinase inhibitor dasatinib nilotinib remarkable efficacy cml treatment 
+synergy_168	imatinib docetaxel produce antagonistic effect pc-3 additive antagonistic effect lncap du 145 cell 
+synergy_169	imatinib docetaxel induce apoptosis caspase-3 enzyme activity mitochondrial membrane potential 
+synergy_170	contrast simultaneous exposure imatinib docetaxel little therapeutic efficacy 
+synergy_171	take together result show combination imatinib docetaxel decrease cellular proliferation increase apoptosis human k562 chronic myeloid leukemia cell compare agent alone 
+synergy_172	issue focus follow selection drug aav1/serca2a abacavir sulfate/lamivudine adalimumab aliskiren fumarate ambrisentan aripiprazole at-7519 atazanavir sulfate atomoxetine hydrochloride azacitidine azelnidipine besifloxacin hydrochloride bevacizumab bioabsorbable everolimus-eluting coronary stent bortezomib bosentan budesonide/formoterol fumarate caiv-t carisbamate casopitant mesylate certolizumab pegol cetuximab ciclesonide ciprofloxacin/dexamethasone ctce-9908 dalcetrapib darunavir deferasirox desloratadine disitertide drotrecogin alfa activate dta-h19 duloxetine hydrochloride dutasteride ecogramostim efalizumab emtricitabine eribulin mesilate escitalopram oxalate eszopiclone eur-1008 everolimus-eluting coronary stent exenatide fampridine fluticasone furoate formoterol fumarate/fluticasone propionate fosamprenavir calcium fulvestrant gabapentin enacarbil gs-7904l hpv-6 / 11/16/18 human secretin hydralazine hydrochloride/isosorbide dinitrate imatinib mesylate imexon inalimarev/falimarev indacaterol indacaterol maleate inhalable human insulin insulin detemir insulin glargine ixabepilone l-alanosine lapatinib ditosylate lenalidomide levocetirizine dihydrochloride liraglutide lisdexamfetamine mesilate lopinavir loratadine/montelukast sodium lutropin alfa menzb mepolizumab micafungin sodium morphine hydrochloride nabiximols nikkomycin z olmesartan medoxomil omalizumab paclitaxel-eluting stent pegfilgrastim peginterferon alfa-2a peginterferon alfa-2b perifosine pf-489791 plitidepsin posaconazole pregabalin qax-576 raltegravir potassium ramelteon rasagiline mesilate recombinant human relaxin h2 rhgad65 rivaroxaban rosuvastatin calcium rotigotine saxagliptin sch-530348 sirolimus-eluting stent slit-amikacin sorafenib sotrastaurin sr-16234 sulforaphane tadalafil tanespimycin tapentadol hydrochloride teriparatide tesofensine tiotropium bromide tipifarnib tirapazamine tmc-207 tocilizumab tolvaptan tosedostat treprostinil sodium ustekinumab varespladib methyl vicriviroc vildagliptin vildagliptin/metformin hydrochloride volociximab voriconazole ziconotide ziprasidone hydrochloride 
+synergy_173	trend predict sensitivity agent paclitaxel abcb1 substrate imatinib c-kit inhibitor alter extended passage 
+synergy_174	vitro mk-2206 synergistically inhibit cell proliferation human cancer cell line combination molecular target agent erlotinib epidermal growth factor receptor inhibitor lapatinib dual epidermal growth factor receptor/human epidermal growth factor receptor 2 inhibitor 
+synergy_175	azd8931 combine either tamoxifen fulvestrant inhibit cell growth lapatinib t47d tamres cell also significantly though modestly potent mcf7 tamres cell 
+synergy_176	coexposure trail/apo2l cytotoxic drug topotecan lomustine 1 2-chloroethyl -3-cyclohexyl-1-nitrosourea ccnu temozolomide result synergistic killing 
+synergy_177	work three human cell line multidrug resistance mdr cause p-glycoprotein pgp overexpression cem vlb hl60 dnr lovo dx two cell line mdr associate multidrug related protein mrp lung resistance-related protein lrp overexpression name glc4 adr sw1573/2r120 test amifostine protection daunorubicin doxorubicin idarubicin mitoxantrone toxicity 
+synergy_178	treatment carcinoma model anticancer drug differ mechanism action tyrosine kinase inhibitor pazopanib mkn45 gastric carcinoma xenograft combination tubulin-targeting agent paclitaxel bcr-abl inhibitor nilotinib mda-mb-468 breast cancer xenograft cause change tumor epithelial-mesenchymal character 
+synergy_179	cell treat carboplatin paclitaxel dasatinib individually combination 
+synergy_180	compare compound 1 paclitaxel docetaxel active at3b-1 2.641 ± 1.253 μm 0.613 ± 0.251 μm 
+synergy_181	docetaxel paclitaxel enhance adenovirus mediated transgene expression 
+synergy_182	reduce haloperidol also show additive cytotoxic effect combine doxorubicin vinorelbine paclitaxel docetaxel vitro 
+synergy_183	study compare cytotoxicity transport paclitaxel docetaxel novel taxane sb-t-1103 sb-t-1214 sb-t-1216 adriamycin-sensitive mda-mb-435 resistant nci/adr-res human breast cancer cell 
+synergy_184	nci/adr-res cell 1,000-fold resistant paclitaxel 600-fold resistant docetaxel mtt assay mda-mb-435 cell almost equally sensitive sb-t-1103 sb-t-1214 sb-t-1216 
+synergy_185	cell cycle characteristic dna fragmentation p53 p21 waf1/cip1 expression caspase-3 caspase-9 activity cytochrome c release mitochondria cell death induction taxane paclitaxel docetaxel highly-sensitive mda-mb-435 highly-resistant nci-adr-res human breast cancer cell compare 
+synergy_186	previously report microtubule-stabilizing agent docetaxel induce formation fragile acentrosomal spindle pole structurally related paclitaxel 
+synergy_187	breast cancer cell overexpress her-2 / neu resistant chemotherapeutic agent paclitaxel taxol docetaxel taxotere overexpress her-2 / neu 
+synergy_188	evaluate whether chemotherapeutic agent docetaxel paclitaxel may combine gene therapy create new therapeutic regimen metastatic androgen independent prostate cancer 
+synergy_189	potential synergy gene therapy docetaxel paclitaxel may important direction future therapy metastatic androgen independent prostate cancer 
+synergy_190	nude mouse bear human prostate cancer pc3 xenograft treat 90y-dota-peptide-chl6 2.78 mbq 75 microci 24 hr paclitaxel 300 600 microg docetaxel 300 microg 
+synergy_191	pc3-tumor nude mouse model addition paclitaxel docetaxel 90y-dota-peptide-chl6 dose clinically achievable human provide therapeutic synergy without increase excessive toxicity 
+synergy_192	evaluate vitro effect paclitaxel docetaxel pc-3 du-145 prostate cancer cell line understand better downstream event drug-induced tumor cell death 
+synergy_193	select dose schedule docetaxel use induce giant multinucleated cell give rise docetaxel-resistant survivor remain sensitive paclitaxel chemotherapeutic 
+synergy_194	paste formulation clusterin aso without paclitaxel docetaxel inject intratumorally tumor volume serum prostate specific antigen psa level measure 
+synergy_195	treatment mouse bear pc-3 tumor clusterin aso plus paclitaxel docetaxel paste reduce mean tumor volume greater 50 4 week 
+synergy_196	complexation clusterin aso chitosan incorporation polymeric paste paclitaxel docetaxel produce vitro control release aso vivo efficacy 4 week follow single intratumoral injection solid human prostate tumor mouse 
+synergy_197	msea combination paclitaxel docetaxel exert greater additive apoptosis effect du145 pc-3 cell 
+synergy_198	thapsigargin increase cell killing potency paclitaxel docetaxel 10 12-fold msa cause 5 8-fold increase 
+synergy_199	pc-3 prostate carcinoma responsive full-dose paclitaxel docetaxel tasidotin generate dose dependent effect 
+synergy_200	interaction β-elemene paclitaxel docetaxel produce additive moderately synergistic effect platinum-resistant ovarian cancer cell line a2780/cp70 parental cell line a2780 show moderately synergistic activity pc-3 prostate cancer cell 
+synergy_201	study aim investigate modulatory impact cape docetaxel doc paclitaxel ptx cytotoxicity prostate cancer cell explore possible underlying mechanism chemomodulation 
+synergy_202	prostate tumor cell line pc-3 lncap du145 treat antineoplastic drug paclitaxel docetaxel evaluate cytotoxicity cell proliferation gene expression assay 2d magnetic 3d bioprint culture 
+synergy_203	result lower cell proliferation rate resistance paclitaxel docetaxel altered gene expression profile show 3d cell culture compare 2d counterpart 
+synergy_204	importantly lapatinib also strongly enhance effect paclitaxel inhibition growth abcb1-overexpressing kbv200 cell xenograft nude mouse 
+synergy_205	combination high dose oral lapatinib lapa her2 tyrosine kinase inhibitor intravenous paclitaxel ptx exhibit clinical survival advantage compare ptx alone her2 positive breast cancer 
+synergy_206	find better strategy enhance cytotoxic effect paclitaxel ptx lapatinib lap breast cancer cell analyze efficacy novel delivery system contain polylactide-co-poly ethylene glycol pla-peg filomicelle 100 nm length spherical micelle approximately 20 nm diameter 
+synergy_207	combination paclitaxel ptx lapatinib lapa show potential multiple drug resistant cancer clinic almost impossible deliver two drug tumor time best proportion simple co-administration respective current formualtion different pharmacokinetic profile 
+synergy_208	sorafenib significantly enhance anti-endothelial effect low dose etoposide paclitaxel temozolomide 
+synergy_209	sorafenib also significantly enhance anti-cancer effect low dose etoposide paclitaxel temozolomide sk-mel-2 melanoma cell produce additive effect inhibition cell growth case 
+synergy_210	study d-alpha-tocopheryl polyethylene glycol 1000 succinate tpgs polylysine-deoxycholic acid copolymer pll-da co-modified cationic liposome coating hyaluronic acid ha construct co-delivery paclitaxel ptx chemosensitize agent sorafenib sor treat mdr cancer 
+synergy_211	particle size morphology paclitaxel nanosponge complex estimate use sem tem dynamic light scattering technique 
+synergy_212	tem observation show intact functional paclitaxel nanomicelle transport across caco-2 cell manolayer everted gut sac 
+synergy_213	investigate effect chemoradiotherapy pp2 temozolomide tmz malignant glioma cell use clonogenic assay vivo brain tumor model 
+synergy_214	finally generate cisplatin dose response 3d culture breast cancer cell derive 2 pdx model 
+synergy_215	predict result pdx 15 40-fold cytotoxic mtx 3 4-fold cytotoxic highly potent edx follow 3-h pulse exposure culture ccrf-cem cell cell panel three human breast two human nonsmall-cell nsc lung cancer 
+synergy_216	study show significantly enhance antitumor property pdx compare mtx edx 
+synergy_217	ccrf-cem cell system pdx 2 3-fold less effective inhibitor dihydrofolate reductase aminopterin amt methotrexate mtx edatrexate edx much effective permeant one-carbon reduce folate transport inward pdx amt approximately equal edx mtx substrate folylpolyglutamate synthetase pdx amt edx mtx 
+synergy_218	pralatrexate demonstrate distinct mechanistic anti-tumor activity profile relative methotrexate pemetrex 
+synergy_219	significantly greater percentage radiolabele pralatrexate enter cell polyglutamylatate relative methotrexate pemetrex 
+synergy_220	carry study aim shed light sensitization resveratrol temozolomide tmz glioma wnt signaling pathway 
+synergy_221	however effect combine riluzole primary gbm chemotherapeutic agent temozolomide tmz unknown 
+synergy_222	sorafenib induce autophagy temozolomide initiate mainly apoptosis 
+synergy_223	sorafenib temozolomide apply combination potent apoptosis inducer t98g moggccm cell 
+synergy_224	therefore aim present study investigate effectiveness sorafenib temozolomide elimination human glioma cell apoptosis autophagy 
+synergy_225	moggccm anaplastic astrocytoma t98g glioblastoma multiforme cell line incubate sorafenib and/or temozolomide use experiment 
+synergy_226	egfr tyrosine kinase target inhibitor erlotinib multi-tyrosine kinase inhibitor sunitinib reduce survival cell line 
+synergy_227	proliferation assay also achieve vitro different colon cancer cell line expose sn-38 sunitinib alone combination 
+synergy_228	moreover combination sn-38 sunitinib cause synergism colon cancer cell significant inhibition abcg2 gene expression increase sn-38 intracellular concentration 
+synergy_229	first effect tyrosine kinase inhibitor erlotinib hydrochloride sorafenib tosilate sunitinib malate human non-small cell lung cancer nsclc breast cancer colorectal cancer evaluate vivo 
+synergy_230	abt-888 strongly potentiate temozolomide b16f10 s.c. murine melanoma model 
+synergy_231	parp inhibition dramatically increase efficacy temozolomide abt-888 dose low 3.1 mg/kg/d maximal efficacy achieve 25 mg/kg/d 
+synergy_232	abt-888 potentiate activity dna-damaging agent temozolomide tmz variety preclinical model 
+synergy_233	transfect cho cell low agt activity increase ic 50 either bcnu temozolomide tmz compare parental cho cell 
+synergy_234	within cluster 3.1 higher antiproliferative activity temozolomide potent paclitaxel sf295 snb75 cell line 
+synergy_235	temozolomide use thalidomide treat glioma 
+synergy_236	thalidomide enhance cytotoxicity temozolomide promote autophagy induce temozolomide 
+synergy_237	human malignant glioma cell u251-mg culture assign four group different treatment 3 day temozolomide group 100 micromol/l thalidomide group 100 microg/l temozolomide 100 micromol/l plus thalidomide group 100 microg/l control group 
+synergy_238	proliferation tumor cell obviously suppress temozolomide thalidomide treatment either drug use alone p = 0.000 day 
+synergy_239	contribute up-regulation pten thalidomide expression autophagy associate protein-map1lc3 beclin1 enhance lead reinforce autophagy combined treatment temozolomide thalidomide vitro 
+synergy_240	test under/overestimation viability mtt assay compare result derive mtt assay trypan blue exclusion assay treatment glioblastoma u251 t98g c6 cell three widely use inhibitor known direct side effect energy metabolic homeostasis temozolomide tmz dna-methylating agent temsirolimus tem inhibitor mtor kinase u0126 inhibitor mek1/2 kinase 
+synergy_241	report trans retinoic acid atra enhance toxicity docetaxel du145 lncap prostate cancer cell nature interaction atra docetaxel highly synergistic 
+synergy_242	atra enhance docetaxel-induced apoptosis combined treatment atra docetaxel result down-regulation bcl-2 
+synergy_243	atra also inhibit docetaxel-induced activation mapk indicate effect docetaxel atra cdc2 phosphorylation dependent mapk 
+synergy_244	conclude atra synergistically enhance docetaxel toxicity down-regulating bcl-2 expression partially reverse docetaxel-induced g2/m arrest inhibit docetaxel-induced cdc2 phosphorylation pathway dependent mapk 
+synergy_245	result reveal docetaxel atra synergistically cytotoxic apoptotic du-145 cell dose time dependent manner 
+synergy_246	conclusion strongly suggest docetaxel atra combination good candidate challenging era daily oncologic practice 
+synergy_247	also combination docetaxel atra might allow reduction docetaxel dose way may diminish docetaxel adverse effect maintain therapeutic effect patient hrpc 
+synergy_248	pretreat cancer cell line 1,25 oh 2d3 atra individually combination 3 day prior 1-h incubation paclitaxel adriamycin decrease ed50 inhibition colony formation cell death trypan blue 2 log paclitaxel 1 log adriamycin three cell line effect chemotherapy-induced mcf-12 cell death 
+synergy_249	base datum obtain subsequent validation study mitoxantrone hydrochloride simvastatin fluvastatin vandetanib identify strong candidate inhibit migration invasion pc-3 cell without significantly affect cell viability 
+synergy_250	vemurafenib sorafenib treatment significantly reduce total cse1l level however inhibit erk1/2 cse1l phosphorylation a375 melanoma cell ht-29 colorectal cancer cell 
+synergy_251	phosphorylation status cse1l vemurafenib sorafenib treat tumor cell assay immunoblot antibody phosphorylate cse1l 
+synergy_252	vinorelbine 6.7 mg/kg sorafenib 40 mg/kg produce tgd 2.4 7.8 day respectively nci-h460 nsclc model 
+synergy_253	intravenous iv vinorelbine interperitoneal ip cisplatin administer intermittently q4d x 3 combination sorafenib administer orally po daily 9 day start day standard agent 
+unsynergy_0	therefore investigate role thymidine synthase tyms folate receptor 1 folr1 dihydrofolate reductase dhfr phosphoribosylglycinamide formyltransferase gart methylenetetrahydrofolate dehydrogenase mthfd1 methylenetetrahydrofolate reductase mthfr lv-mediated enhancement 5-fluoro-2 deoxyuridine fdurd cytotoxicity vitro model 5-fu antitumor activity 
+unsynergy_1	intracellular level 5-fluorodeoxyuridine monophosphate 5-fdump 5-fu incorporate rna 5-fu treatment cell infect adenovirus contain uprt gene adca-uprt significantly higher non-infected cell 
+unsynergy_2	thymidylate synthase ts inhibitor include fluoropyrimidine e.g. 5-fluorouracil 5-fu 5-fluorodeoxyuridine 5-fdu floxuridine antifolate e.g. pemetrex widely use solid tumor 
+unsynergy_3	trifluridine ftd 2 deoxy-5-fluorouridine fdurd derivative 5-fluorouracil 5-fu antitumor agent inhibit thymidylate synthase activity nucleotide incorporate dna 
+unsynergy_4	include one hormone dexamethasone dxm dna damaging agent melphalan cisplatin bleomycin mitomycin c mithramycin inhibitor dna synthesis aphidicolin cytosine arabinoside ara-c methotrexate mtx 5-fluoro-2 deoxyuridine fudr 5-fluorouracil 5-fu metabolic inhibitor bromo-2 deoxy-2 uridine budr actinomycin d 5-azacytidine 5-ac cycloheximide vincristine etoposide adriamycin 
+unsynergy_5	inhibitory effect combined 5-methyltetrahydrofolate 5-ch3-thf physiological circulate folate species fluoropyrimidine 5-fluorouracil fura 5-fluoro-2 deoxyuridine fdurd growth human leukemia cell ccrf-cem determine function time dose sequence exposure 
+unsynergy_6	growth inhibitory effect 5-fluorouracil fura 5-fluoro-2 deoxyuridine fdurd combine 5-methyltetrahydrofolate 5-ch3-h4pteglu determine function time dose sequence exposure human t-lymphoblast leukemia cell ccrf-cem 
+unsynergy_7	term ed90 5-fluoro-2 deoxyuridine 190 1300-fold active 5-fluorouracil 24 72 h exposure respectively 0.4 vs 75 microm 0.01 vs 26 microm 
+unsynergy_8	fluorinate thymidine analogue action might generate lesion recognizable mmr widely use treatment colorectal cancer investigate role mmr cellular response 5-fluorouracil 5-fluoro-2 deoxyuridine fdurd 
+unsynergy_9	like 5-fluoro-2 deoxyuridine fdurd deoxynucleoside form 5-fluorouracil metabolite ftd sequentially phosphorylate inhibit thymidylate synthase activity also incorporate dna 
+unsynergy_10	major mechanism underlie cytotoxicity fluoropyrimidine analog 5-fluorouracil 5-fluoro-2 deoxyuridine fdurd occur via formation 5-fluoro-2 deoxyuridylate fdump tight-binding inhibitor thymidylate synthase ts 
+unsynergy_11	modulation radiosensitizer uptake dna achieve use thymidylate synthase inhibitor 5-fluorouracil 5-fluoro-2 deoxyuridine fdurd 
+unsynergy_12	combination leucovorin 5-fluorouracil 5-fluorodeoxyuridine increase growth inhibition ccrf-cem cell compare fluoropyrimidine alone parent cell line ccrf-cem/p cell 
+unsynergy_13	addition leucovorin produce significant increase inhibition intracellular thymidylate synthase activity cause 5-fluorouracil 5-fluorodeoxyuridine compare drug alone ccrf-cem cell increase inhibition produce single drug alone observe ccrf-cem/p cell 
+unsynergy_14	cak -1 renal cancer cell use phosphatidylserine externalization marker apoptosis anti-cancer drug 5-fluorouracil 5-fu pro-drug doxifluridine dox floxuridine flox proceed via caspase-dependent mechanism 
+unsynergy_15	inhibitory effect leucovorin lv combine 5-fluorouracil fura floxuridine fdurd growth human t-lymphoblast leukemia cell ccrf-cem determine function time dose sequence exposure 
+unsynergy_16	potentiation cytotoxic activity 5-fluorouracil fura folinic acid 5-hco-h4folate due elevation methylene tetrahydrofolate ch2-h4folate level increase stability ternary complex thymidylate synthase ts fluorodeoxyuridine monophosphate ch2-h4folate inactivate ts 
+unsynergy_17	allopurinol concentration 100 microgram/ml find protect human colonic carcinoma cell cytotoxic effect 5-fu condition resemble find vivo 
+unsynergy_18	response dld-1 hct-15 human colon adenocarcinoma cell hyperthermia 5-fluorouracil 5-fu / leucovorin carboplatin tumor necrosis factor-alpha singly multiple combination evaluate clonogenic assay 
+unsynergy_19	result show isms system bcnu 5-fu inactive liver metastasis primary growth spleen 
+unsynergy_20	ivms system bcnu inactive whereas 5-fu dx active metastatic growth 
+unsynergy_21	aim investigate combined chemotherapeutic effect celecoxib use 5-fu vitro 
+unsynergy_22	result 5-fu celecoxib show dose-dependent cytotoxic effect 
+unsynergy_23	treat 10 -3 mol/l 5-fu ic 50 celecoxib concentration range 10 -8 mol/l 10 -4 mol/l celecoxib cell show reduce cytotoxic effect 5-fu 10 -3 mol/l alone 
+unsynergy_24	flow cytometry show celecoxib attenuate 5-fu induce accumulation cell subg1 phase 
+unsynergy_25	western blot analysis caspase-3 poly adp-ribose polymerase parp cleavage show celecoxib attenuate 5-fu induced apoptosis 
+unsynergy_26	western blot analysis cell cycle molecule show g2/m arrest might possible cause 5-fu induce apoptosis celecoxib attenuate 5-fu induced apoptosis via blocking cell cycle progression g2/m phase cause accumulation cell g1/s phase 
+unsynergy_27	finding suggest low response rate observe clinical trial use celecoxib add 5-fluorouracil irinotecan may reflect celecoxib-mediated extrusion chemotherapeutic drug cancer cell regulation atp-binding cassette protein 
+unsynergy_28	result indicate type p53 expression might play important role determination response low-dose cddp 5-fu therapy colon cancer patient 
+unsynergy_29	result show cell death pattern determine combine observation ho h&e stain cell without necessity judge apoptosis electron microscopy 5-fluorouracil 5-fu cisplatin cddp important anti-cancer drug treatment variety cancer 5-fu cddp alone show significant effect treatment gastric colon cancer addition show combination 5-fu plus cddp fp therapy produce synergism greater 5-fu cddp alone gastrointestinal cancer 
+unsynergy_30	study examine induced apoptosis colon cancer cell line status p53 expression response treatment hct116 colo320 sw480 dld1 5-fu alone cddp alone fp treatment flow cytometric analysis 
+unsynergy_31	pan-811 inhibit mtx-induced death h460 cell interestingly demonstrate synergistic effect 5-fu cddp reduce cancer cell viability 
+unsynergy_32	study reveal effect smf microtubule cause abnormal mitotic spindle delay cell exit mitosis also imply potential application smf combination chemotherapy drug 5-fu 5-fu/taxol cisplatin cancer treatment 
+unsynergy_33	srb assay reveal 8-fold increase ic 50 cisplatin 2.5-fold increase 5-fu du 145 mn1 compare du 145 cell 
+unsynergy_34	treatment jmr-132 5 μm combine 5-fu 1.25 μm irinotecan 1.25 μm cisplatin 1.25 μm result additive growth inhibition hct-116 cell vitro show mts assay 
+unsynergy_35	datum suggest lovastatin may potentially combine 5-fu cisplatin chemotherapy colon cancer 
+unsynergy_36	study demonstrate simultaneous exposure irofulven cisplatin least additive cell line whereas simultaneous exposure irofulven 5-fu additive synergistic cell line test include irofulven cisplatin-resistant variant 
+unsynergy_37	enhance cytotoxicity irofulven combination cisplatin 5-fu support clinical application regimen 
+unsynergy_38	inhibition chk1 protein level inducible clone induction doxycycline correlate increase cisplatin 5-fu activity 
+unsynergy_39	demonstrate regulation orc6 sensitize colon cancer cell 5-fu cisplatin cis-pt treatment 
+unsynergy_40	exposure 5-fu follow cisplatin produce synergistic effect dld-1 cell amount platinum bind dna substantially increase compare schedule 5-fu oxaliplatin also tend synergistic 5-fu give first significant change cellular kinetics platinum observe 
+unsynergy_41	exposure 5-fu follow cisplatin synergistic effect dld-1 cell suggest amount platinum bind dna contribute result 
+unsynergy_42	moreover low concentration abc294640 sensitize activity 5-fu cisplatin vitro 
+unsynergy_43	furthermore treat mouse sma combination 5-fu colon cancer xenograft model cisplatin a549 lung cancer xenograft model result greater anti-tumor activity treatment drug alone 
+unsynergy_44	furthermore p. peruviana cytotoxic effect less cisplatin 5-fu vero control cell line 
+unsynergy_45	study investigate cytotoxic effect oxaliplatin combination 5-fu ag337 culture human colon ht29 caco2 breast mcf-7 mda-mb-231 ovarian 2008 cancer cell line derive counterpart select resistance 5-fu ht29-5-fu doxorubicin mcf-7mdr cisplatin 2008c13 
+unsynergy_46	combination effect fk973 5-fluorouracil 5fu cddp synthetical 
+unsynergy_47	mimic cellular effect microtubule-targeting drug paclitaxel taxol frequently use combination 5-fluorouracil 5-fu cisplatin cancer treatment 
+unsynergy_48	experiment combination therapy chemotherapeutic agent combination tnp-470 100 mg/kg cisplatin 5 mg/kg show additive antitumor effect treat versus control 38 22 5 pc-3 carcinoma 5-fluorouracil adriamycin alone significantly inhibit mda-mb-231 tumor growth treat versus control 131 64 respectively 
+unsynergy_49	exposure cem cell rhil-11 24 hr alter cytotoxicity melphalan radiation increase cytotoxicity cddp 100 mum 4-hydroperoxycyclophosphamide 50 betam decrease cytotoxicity 5-fluorouracil ara-c toward cell 
+unsynergy_50	combination 5-fluorouracil 5-fu plus cisplatin cddp fp treatment possess synergistic cytotoxicity colon cancer 
+unsynergy_51	additionally 4 score better activity cisplatin 2-15 fold 5-fluorouracil etoposide across panel cell line 
+unsynergy_52	sulforhodamine b srb assay use analyze cell doubling time ic 50 cisplatin 5-fluorouracil cell line 
+unsynergy_53	pretreatment lovastatin significantly increase apoptosis induce 5-fluorouracil 5-fu cisplatin four cell line 
+unsynergy_54	guide clinical use irofulven present study use mtt viability assay examine cytotoxic effect obtain combine irofulven two anticancer agent cisplatin 5-fluorouracil 5-fu 
+unsynergy_55	lin28b-long isoform-expressing cell demonstrate increase drug resistance 5-fluorouracil cisplatin upregulation ercc1 dna repair gene let-7-dependent manner 
+unsynergy_56	interestingly hct116rfk866 cell resistant class nampt inhibitor sensitive anticancer 5-fluorouracil cisplatin gamma-ray irradiation compare parental hct116 cell 
+unsynergy_57	additionally srpk2 association mutant p53 mtp53 sw480 sw620 cell negatively regulate numb wild-type p53 wtp53 response 5-fluorouracil cisplatin treatment hct116 cell 
+unsynergy_58	furthermore overexpression srpk2 increase cell migration invasion decrease chemosensitivity 5-fluorouracil cisplatin hct116 cell 
+unsynergy_59	mtt assay use determine ic50 k562/adr cell adriamycin adr cisplatin ddp 5-fluorouracil 5-fu vincristin vcr 
+unsynergy_60	ht-29 cell line pc-3 k-562 vero expose four concentration p. peruviana ethanolic leave stem extract also different concentration cisplatin 5-fluorouracil 5-fu use positive control 
+unsynergy_61	combination 0.15 microgram/ml thp cisplatin cddp mitomycin c mmc peplomycin pep 5-fluorouracil 5-fu methotrexate mtx enocitabine bh-ac etoposide show synergistic effect hela s3 cell 
+unsynergy_62	however murine leukemia resistant doxorubicin adr melphalan l-pam cisplatin ddpt 1-beta-d-ara-binofuranosylcytosine ara-c 5-fluorouracil 5-fu cross-resistant carmethizole suggest patient previously treat agent might less likely respond carmethizole opportunity develop resistance compound 
+unsynergy_63	significantly sti571 increase ability cisplatin inhibit constitutive activation pi3k/akt bt-549 cell synergize camptothecin increase stability ikappab mda-mb-231 cell mda-mb-468 cell camptothecin 5-fluorouracil inhibit sti571-dependent activation stat3 
+unsynergy_64	present study two human non-small cell lung cancer cell line h1299 h460 use investigate whether merm1/wbscr22 affect chemosensitivity antitumor agent include cisplatin cddp doxorubicin adm paclitaxel ptx mitomycin mmc 7-ethyl-10-hydroxycamptothecin sn-38 active metabolite camptothecin 5-fluorouracil 5-fu 
+unsynergy_65	primary neuron different concentration antioxidant ao insult 3 day methotrexate mtx 5-fluorouracil 5-fu cisplatin cddp absence presence pan-811 · cl · h2o 
+unsynergy_66	pc-3 cell primarily sensitive cisplatin doxorubicin ht-29 cell sensitive fluorouracil doxorubicin 3-d collagen cell culture system use study cancer cell potential invasion relative sensitivity/resistance anticancer drug 
+unsynergy_67	metronomic chemotherapy use 5-fu prodrug uracil-tegafur uft cyclophosphamide ctx previously show modestly delay primary tumor growth nevertheless markedly suppress development micro-metastasis orthotopic breast cancer xenograft model use metastatic variant mda-mb-231 cell line 231/lm2 4 
+unsynergy_68	additionally mir-126-3p correlate basal-like breast cancer mir-374b-5p modify therapeutic effect 5-fluorouracil cyclophosphamide treatment basal-like breast cancer patient 
+unsynergy_69	cyclophosphamide cyc epirubicin epi 5-fluorouracil 5fu commonly use cytotoxic drug treatment breast cancer 
+unsynergy_70	fibre implant subcutaneously immunocompetent male sprague dawley rat rat treat 5-fluorouracil 5-fu 125 mg/kg epirubicin epi 10 mg/kg cyclophosphamide cp 120 mg/kg intraperitoneally new cyanoguanidine chs 828 375 mg/kg 75 mg/kg x 5 orally vehicle 
+unsynergy_71	inhibition cell proliferation zhu-xiang epirubicin 5-fluorouracil cyclophosphamide determine wst-1 assay 
+unsynergy_72	furthermore cdy uprt-msc significantly sensitive 5-fluorouracil 5fu cisplatin cyclophosphamide cytosine arabinoside determine increase caspase 3/7 activation and/or decrease relative proliferation 
+unsynergy_73	test hypothesis directly determine enhancement factor cytotoxicity melphalan cyclophosphamide cyc 5-fluorouracil 5-fu administer simultaneously miso 750 mg/kg melphalan cyc 1000 mg/kg 5-fu four experimental system know differ oxygenation status 250 mg intramuscular i.m. 
+unsynergy_74	maximum cytotoxicity find human colon cancer hct116 cell treat docetaxel 1 h follow flavopiridol 24 h 5-fu another 24 h. 
+unsynergy_75	sequencing docetaxel follow 1 h later flavopiridol follow 24 h later 5-fu xenograft model also result delay tumor growth higher survival rate 
+unsynergy_76	anticancer result reveal synthesize compound show equipotent activity standard 5-fluorouracil docetaxel caco-2 mcf-7 cell line respectively 
+unsynergy_77	combination 5-fu fulvestrant superior monotherapy vitro 
+unsynergy_78	patient method cytotoxicity fulvestrant 5-fluorouracil 5-fu assess hormone-responsive mcf-7 non-responsive mda-mb-231 breast cancer cell culture 
+unsynergy_79	human lymphocytic leukemia ccrf-cem cell expose mtx tmtx 24 hour 5-fu last 4 hour antifolate exposure 
+unsynergy_80	smear dna agarose gel see ccrf-cem f2 5-fu mithramycin treatment whilst ccrf-hsb cell show similar dna profile 5-fu mtx treatment 
+unsynergy_81	azt competitive inhibitor salvage enzyme thymidine kinase 5-fu mtx provide synergistic cytotoxicity hepatoma 3924a 
+unsynergy_82	ec 50 azd1152-hqpa approximately 10 nmol/l sw620 hct116 cell contrast sw620 cell much sensitive methotrexate mtx 5-fluorouracil 5fu hct116 cell 
+unsynergy_83	investigation methotrexate-fluorouracil interaction reveal effect 5-fluorouracil mtx polyglutamate accumulation various condition widely different degree cytotoxicity find 
+unsynergy_84	substantial inhibition cell growth greater equal 90 obtain short duration exposure 4 h mtx ed90 = 4.3 microm 5-fluorouracil relatively ineffective cytotoxic agent exposure short duration 4 h 
+unsynergy_85	sequential exposure methotrexate 4 h 5-fluorouracil last 2 h methotrexate exposure result synergistic inhibitory effect cell growth 
+unsynergy_86	ccrf-cem leukemic human cell line use compare effect lv-6s 6r s 6r rescue methotrexate mtx cytotoxicity 5-fluorouracil 5-fu 
+unsynergy_87	effect extracellular folate concentration intracellular folate phosphoribosylpyrophosphate prpp level cytotoxicity methotrexate 5-fluorouracil study human kb cell grow fetal bovine serum-supplemented eagle minimum essential medium contain standard high folic acid level 2.3 microm standard s medium folic acid-free serum-supplemented medium contain approximately 4 nm 5-methyltetrahydrofolate physiological p medium folate level form comparable normal human serum 
+unsynergy_88	administration antifolate methotrexate mta ly309887 6 h prior administration 5-fluorouracil result additive growth delay mx-1 tumor antifolate methotrexate ly309887 greater-than-additive tumor growth delay tgd antifolate mta 
+unsynergy_89	bcnu 5-fluorouracil 5-fu methotrexate mtx capable induce approximately 50 reduction cell viability 72 hour etoposide cisplatin mitomycin c ineffective 
+unsynergy_90	study design examine effect selenite combine cytotoxic agent use clinical protocol e.g. doxorubicine docetaxel 5-fluorouracil 5-fu methotrexate mtx mafosphamide mitomycin c gemcitabine etoposide cisplatin irinotecan oxaliplatin proliferation various carcinoma cell type 
+unsynergy_91	synergy observe mtx precede fluorouracil treatment therefore effect mtx polyglutamylation 
+unsynergy_92	increase response rate study patient colon cancer indicate cytotoxic effect fluorouracil 5-fu potentiate leucovorin lv methotrexate mtx 
+unsynergy_93	h460 sphere demonstrate typical characteristic csc include cd133 expression upregulation nanog self-renewal drug resistance methotrexate mtx fluorouracil 5-fu 
+unsynergy_94	ic50 concentration 5-fu result accumulation g1 phase doxorubicin paclitaxel induce g2/m accumulation 
+unsynergy_95	benspm exhibit synergistic inhibitory effect cell proliferation combination 5-fu paclitaxel human breast cancer cell line mda-mb-231 mcf-7 either antagonistic less effective non-tumorigenic mcf-10a cell line 
+unsynergy_96	combination treatment benspm 5-fu paclitaxel result induction ssat mrna activity cell line compare either drug alone smo mrna activity increase mda-mb-231 cell 
+unsynergy_97	contrary mpa show highest synergy paclitaxel 5-fu scc-25 cell derive oral squamous cell carcinoma 
+unsynergy_98	however combination propranolol chemotherapy result profound sustained anti-tumor effect significantly increase survival benefit induce chemotherapy alone +19 +79 median survival combination compare 5-fu alone paclitaxel alone respectively p less 0.05 
+unsynergy_99	different concentration 5-fu paclitaxel mda-mb231 cell e-cadherin mrna protein expression increase gradually increase concentration vimentin n-cadherin mrna protein expression decrease gradually decrease concentration p 0.05 
+unsynergy_100	compare shctrl group mda-mb231 cell shror group present higher sensibility 5-fu paclitaxel increase e-cadherin expression decrease vimentin n-cadherin expression invasion ability p 0.05 
+unsynergy_101	compare vector cell overexpress linc-ror cell present decrease sensibility 5-fu paclitaxel decrease e-cadherin expression increase vimentin n-cadherin expression invasion ability p 0.05 
+unsynergy_102	antiproliferative activity significantly better 5-fluorouracil ic50 56.96-174.50 mum close paclitaxel ic50 0.026-1.53 mum 
+unsynergy_103	combination therapy anti-smc2 micelle paclitaxel ptx 5-fluorouracil 5-fu also explore 
+unsynergy_104	paclitaxel 5-fluorouracil use treat hormone-refractory prostate cancer success 
+unsynergy_105	present study show among panel drug namely paclitaxel tax doxorubicin dox 5-fluorouracil 5-fu ucn-01 tamoxifen tam use tam alone up-regulate expression grp78 significantly induce apoptosis mcf-7 mda-mb-231 cell 
+unsynergy_106	hypermethylator breast cancer cell line mda-mb-453 bt549 hs578t treat 250 500 nm 5-aza-2 deoxycytidine 5-aza and/or subject rnai-mediated dnmt3b knockdown kd test sensitivity doxorubicin hydrochloride dox paclitaxel pax 5-fluorouracil 5-fu 
+unsynergy_107	23 patient hormone-refractory prostate cancer treat regimen t-hdfl paclitaxel 90 mg/m2 intravenously 1 hour day 1 8 5-fluorouracil 2000 mg/m2 leucovorin 300 mg/m2 intravenous 24-hour infusion day 2 9 repeat every 21 day 
+unsynergy_108	combined cytotoxicity paclitaxel 5-fluorouracil schedule dependent 
+unsynergy_109	feasible administer weekly paclitaxel high-dose 5-fluorouracil infusion patient hormone-refractory prostate cancer 
+unsynergy_110	moreover bfa act synergistically paclitaxel 5-fluorouracil crc suppression 
+unsynergy_111	strongest senescence inducer doxorubicin irinotecan methotrexate paclitaxel intermediate effect oxaliplatin 5-fluorouracil induce senescence 
+unsynergy_112	increase concentration cisplatin doxorubicin paclitaxel 5-fluorouracil comparatively evaluate ability inhibit tumor cell proliferation colony formation vitro 
+unsynergy_113	present study evaluate characteristic paclitaxel ptx 5-fluorouracil 5-fu penetration effect tissue penetration use mcl human colorectal cancer cell dld-1 ht-29 grow transwell insert 
+unsynergy_114	cell treat paclitaxel 5-fluorouracil test selective resistance chemotherapy gene expression profile chemotherapy examine 
+unsynergy_115	effect 5-fluorouracil 5-fu doxorubicin paclitaxel fdg flt uptake measure mda mb231 human breast cancer cell relation cell cycle distribution expression enzyme activity tk-1 
+unsynergy_116	cytotoxicity paclitaxel ptx adriamycin adr 5-fluorouracil 5-fu analyze human breast cancer cell line mda mb 231 mcf 7 cell line use mtt assay synergy 5-aza-cdr agent determine drewinko fraction method 
+unsynergy_117	investigate efficacy molecular mechanism three combine treatment tct novel histone deacetylase hdac inhibitor obp-801 / ym753 5-fluorouracil 5-fu paclitaxel ptx human ovarian cancer skov-3 ovcar-3 cell 
+unsynergy_118	striking feature obtain principal components analysis pca resonant mie scattering rmies correct single cell spectrum drug treat ovarian a2780 cell spectrum obtain control quite heterogeneous several hundred spectrum require adequately define nature control ii drug treatment ic50 level 24 h cisplatin kf0101 methotrexate paclitaxel 5-fluorouracil cell spectrum represent pca score plot generally concentrate certain well define area control however small number spectrum fall outside area define control iii differentiation cell spectrum obtain treatment different drug observe fit well different vitro cell culture behaviour flow cytometry cell cycle analysis control drug treated cell 
+unsynergy_119	paclitaxel irinotecan show strong inhibition liver metastasis fluorouracil doxifluridine show slight inhibition 
+unsynergy_120	accord chemotherapeutic du145 cell divide fluorouracil fu group paclitaxel pa group 2 group subdivide 4 subset accord chemotherapeutic concentration fu 30 60 120 240 μg/ml pa 0.2 2 10 20 μg/ml meanwhile blank control group include respectively 3 4,5-dimethylthiazol-2-yl -2,5-diphenyl tetrazolium bromide mtt assay use evaluate proliferation transfection 
+unsynergy_121	western blotting rt-pcr take pick shrna best gene silencing result 3 4,5-dimethylthiazol-2-yl -2 5-diphenyl tetrazolium bromide assay terminal de-oxynucleotidyl transferase-mediated dutp nick end-labeling assay use detect survival ratio apoptosis ratio du145 administer fluorouracil 5-fu paclitaxel pa different concentration shrna transfection 
+unsynergy_122	7-day assay vary dose fluorouracil paclitaxel differential effect proliferation mcf-7 mda-mb-231 tumor spheroid microtumor compare 2d 3d monoculture 
+unsynergy_123	bt-474 show chemosensitivity paclitaxel epirubicin mda-mb-231 show chemosensitivity paclitaxel epirubicin carboplatin fluorouracil t/c = 50 
+unsynergy_124	pdx model compare control group 5-fluorouracil 5-fu treatment result statistically significant tumor growth inhibition tgi oxaliplatin ohp irinotecan significant inhibitory effect 
+unsynergy_125	isobologram analysis demonstrate etodolac combination 5-fu sn-38 accord simultaneous schedule result additive effect however synergism achieve sequential schedule 
+unsynergy_126	apoptosis induction cell line also significantly increase sequential treatment etodolac follow either 5-fu sn-38 compare simultaneous treatment etodolac either 5-fu sn-38 
+unsynergy_127	study suggest apoptosis-inducing synergism result administration etodolac either 5-fu sn-38 sequentially simultaneously 
+unsynergy_128	preclinical study roswell park cancer institute minderman cao rustum unpublished result show combination sn-38 5-fu hct-8 human colon carcinoma cell vitro synergistic best interaction occur drug add sequentially sn-38 first 
+unsynergy_129	conclusion shrna-mediated knockdown merm1/wbscr22 attenuate h460 sensitivity sn-38 5-fu suggest merm1/wbscr22 involve chemosensitivity sn-38 5-fu h460 cell 
+unsynergy_130	result 5-fu sn-38 significantly induce nf-kappab activation measure luciferase reporter assay p 0.001 
+unsynergy_131	ags cell pretreatment ad.ikappabalpha-sr follow 5-fu 0.005 mmol/l sn-38 10 ng/ml lead increase growth inhibition 13 59 respectively p 0.001 
+unsynergy_132	similarly growth inhibition nci cell significantly increase pretreatment ad.ikappabalpha follow 5-fu 0.001 mmol/l sn-38 0.5 ng/ml p 0.001 
+unsynergy_133	investigate interactive effect selective cox-2 inhibitor etodolac combination 5-fluorouracil 5-fu sn-38 active metabolite irinotecan colon cancer cell line ht29 sw620 simultaneous sequential administration schedule 
+unsynergy_134	report chemotherapy induce notch-1 oxaliplatin 5-fluorouracil 5-fu sn-38 active metabolite irinotecan induce notch-1 intracellular domain nicd protein activate hes-1 
+unsynergy_135	human colorectal cancer cell ht-29 sw480 culture hypoxic condition sensitivity 5-fluorouracil fu oxaliplatin sn-38 active metabolite irinotecan test 
+unsynergy_136	investigate effect combine tenovin-6 conventional anticancer agent 5-fluorouracil 5-fu sn-38 active metabolite irinotecan oxaliplatin 
+unsynergy_137	moreover synergistic activity 5c sn-38 active metabolite irinotecan 5-fluorouracil cell proliferation hypoxic condition demonstrate 
+unsynergy_138	three human rcc cell line achn caki-1 caki-2 use assess sensitivity 5-fluorouracil 5fu sorafenib sunitinib alone combination use vitro cell survival assay 
+unsynergy_139	though neither analog activate aprt mtap-positive cell adenine produce supply mta block conversion 5-fu 6-tg toxic nucleotide form compete 5-phosphoribosyl-1-pyrophosphate prpp 
+unsynergy_140	co-culture breast tumor cell line mcf-7 hf cell mcf-7 inhibit kill hf cell proliferate robustly 5-fluorouracil 5-fu 6-thioguanine 6-tg may also use strategy 
+unsynergy_141	present study aim compare atra 13-cra 0.1 1 10 100 nm alone combination ifn-alpha 5 400 5,000 25,000 250,000 iu/ml 5-fluorouracil 5-fu 0.1 1 10 100 microg/ml 
+unsynergy_142	temozolomide tmz dna alkylating agent currently use adjuvant treatment anaplastic astrocytoma 
+unsynergy_143	present study mnp base drug delivery approach co-delivering potent chemotherapeutic drug curcumin herbal drug temozolomide dna methylating agent implement 
+unsynergy_144	temozolomide alkylating agent use first line treatment glioblastoma 
+unsynergy_145	temozolomide tmz widely use first-line treatment gbm 
+unsynergy_146	coexposure trail/apo2l cytotoxic drug topotecan lomustine 1 2-chloroethyl -3-cyclohexyl-1-nitrosourea ccnu temozolomide result synergistic killing 
+unsynergy_147	hand pcna expression temozolomide plus methoxyamine-treated cell rule possibility alteration might relate blockage cell cycle g2-phase observe 24 h recovery time 
+unsynergy_148	glioblastoma multiforme gbm tumor associate poor prognosis know resistant radiotherapy alkylating agent temozolomide tmz beta-elemene monomer find chinese traditional herb extract curcuma wenyujin currently use antitumor drug different type tumor include gbm 
+unsynergy_149	background use alkylating agent temozolomide association radiotherapy rt therapeutic standard glioblastoma gbm 
+unsynergy_150	addition observe stronger radio-sensitization single treatment temozolomide use control due reduce expression increase time disappearance gammah2ax indicative reduce signal dna repair 
+unsynergy_151	aim present study investigate antiproliferative proapoptotic action n 5-benzyl-1,3-thiazol-2-yl -3,5-dimethyl-1-benzofuran-2-carboxamide derivative compound 5 glioma cell comparison action temozolomide tmz doxorubicin dox use positive control 
+unsynergy_152	series polymer-drug conjugate base 2-methacryloyloxyethyl phosphorylcholine mpc prepare glioblastoma drug temozolomide tmz pendent group 
+unsynergy_153	study aim investigate antitumor effect natural killer cell combination temozolomide standard chemotherapeutic agent glioblastoma 
+unsynergy_154	present study examine anticancer effect papaverine human glioblastoma gbm temozolomide tmz first-line anticancer medicine sensitive u87mg tmz-resistant t98g cell 
+unsynergy_155	additionally assess dpg candidate combinational therapy gbm temozolomide tmz 
+unsynergy_156	clinic temozolomide use anti-tumor drug glioblastoma chemotherapy show limited effect 
+unsynergy_157	material method study assess anticancer effect papaverine alone combination temozolomide u87mg t98g human gbm cell use clonogenicity assay well u87mg xenograft mouse model 
+unsynergy_158	aldehyde dehydrogenase aldh identify marker cell population show previously aldh1a3-positive gbm cell resistant temozolomide tmz treatment 
+unsynergy_159	present treatment patient suffer gbm base surgical resection tumor maximal protection surround tissue follow radio pharmacological therapy use temozolomide frequently recommend drug 
+unsynergy_160	regulation key ddr cell cycle protein include chk1 γ-h2ax p21 waf1/cip1 also study glioma cell lines.collectively finding provide new perspective use axitinib combination bortezomib overcome therapy resistance glioma 
+unsynergy_161	thus address combined effect axitinib toxic dose proteasome inhibitor bortezomib growth u87 t98 axitinib-sensitive axitinib-resistant u251 cell line 
+unsynergy_162	explore activity dasatinib alone combination paclitaxel carboplatin ovarian cancer cell determine dasatinib activity predict base evaluation src pathway 
+unsynergy_163	carboplatin paclitaxel treatment combine carbon-ion beam increase tunel-positive cell expression cleave caspase-3 bax indicate enhancement apoptosis 
+unsynergy_164	purpose study analyze drug interaction paclitaxel ptx epirubicin epi carboplatin cbdca gemcitabine gem vinorelbine vin human breast cancer cell compare cytotoxic activity drug combination primary breast cancer sample 
+unsynergy_165	present study investigate ability carboplatin paclitaxel sensitize human non-small-cell lung cancer nsclc cell carbon-ion beam irradiation 
+unsynergy_166	nsclc h460 cell treat carboplatin paclitaxel irradiate x-ray carbon-ion beam radiosensitivity evaluate clonogenic survival assay 
+unsynergy_167	clonogenic survival assay demonstrate synergistic radiosensitizing effect carboplatin paclitaxel carbon-ion beam sensitizer enhancement ratio ser dose give 10 survival fraction d10 1.21 1.22 respectively 
+unsynergy_168	similarly carboplatin paclitaxel show radiosensitizing effect x-ray ser 1.41 1.29 respectively 
+unsynergy_169	cell proliferation assay validate radiosensitizing effect carboplatin paclitaxel carbon-ion beam x-ray irradiation 
+unsynergy_170	summary carboplatin paclitaxel radiosensitize h460 cell carbon-ion beam irradiation enhance irradiation-induced apoptosis senescence 
+unsynergy_171	objective evaluate efficacy combination navitoclax carboplatin paclitaxel ovarian cancer 
+unsynergy_172	antagonism carboplatin paclitaxel evident ovcar-4 ovcar-8 skov-3 cell 
+unsynergy_173	drug combination include navitoclax carboplatin and/or paclitaxel show significantly less antagonism even synergy several cell line carboplatin/paclitaxel alone 
+unsynergy_174	navitoclax enhance activation caspase 3/7 induce carboplatin and/or paclitaxel igrov-1 cell 
+unsynergy_175	combination navitoclax carboplatin paclitaxel show additive activity igrov-1 spheroid 
+unsynergy_176	conclusion navitoclax improve activity combination carboplatin paclitaxel vitro 
+unsynergy_177	100 nm bcl-2 pkc-alpha expression down-regulate concentration chemosensitization paclitaxel carboplatin observe 
+unsynergy_178	patient treat either paclitaxel 175 mg/m 2 carboplatin auc 6 every three week pc-3 w 133 patient weekly paclitaxel 80 mg/m 2 weekly carboplatin auc 2 day 1 8 15 every 28 day pc-w 267 patient 
+unsynergy_179	result sorafenib treatment lead diminish cellular accumulation cisplatin carboplatin decrease dna platination cell line 
+unsynergy_180	result suggest sorafenib impair cisplatin carboplatin uptake downregulation ctr1 and/or na k atpase result reduction dna platination 
+unsynergy_181	louis mo cox-2 ns-398 sigma-aldrich celecoxib pfizer mapk u0126 sigma-aldrich egfr iressa astrazeneca macclesfield united kingdom alone combination 10 30 mum cisplatin sigma-aldrich 18 possible regimen cell line 
+unsynergy_182	present study select sorafenib sor vegfr inhibitor combination celecoxib cxb cox-2 inhibitor suppress tumor growth simultaneously reduce dose drug treatment nsclc 
+unsynergy_183	three new human cell line establish biopsy specimen ovarian cystadenocarcinoma line ja-1 derive primary solid tumour untreated patient whilst line derive ascite patient previously treat chlorambucil plus either cyclophosphamide tr175 cisplatin tr170 
+unsynergy_184	patient mn nephrotic syndrome normal renal function methylprednisolone chlorambucil cyclophosphamide 6 month alternately increase probability nephritic syndrome remission evidence sr long-term renal protection evidence rct 
+unsynergy_185	survival control dfmo-pretreated cell treatment chlorambucil thiotepa measure plate efficiency assay 
+unsynergy_186	basis result conclude gsh affect cytotoxicity different aa different extent b basal gst expression mcf-7 cell play major role aa metabolism c ea potentiate enhancing effect bso melphalan cytotoxicity mcf-7 cell d depletion cellular gsh pretreatment bcnu cyclophosphamide may correspond useful strategy enhance anti-tumor activity aa give sequential combination 
+unsynergy_187	carmustine bcnu cisplatin cddp cyclophosphamide cpa doxorubicin dacarbazine dtic tamoxifen vincristine inject s.c. i.p. 
+unsynergy_188	purpose method examine ability sr-4233 new cytotoxic agent overcome resistance hypoxic tumor cell antitumor alkylating agent test cytotoxic effect sr-4233 alone combination vary dose cisplatin cddp cyclophosphamide cpm carmustine bcnu melphalan l-pam tumor cell bone marrow cell isolate c3h/fej mouse bear fsaiic fibrosarcoma 
+unsynergy_189	agent study include carmustine bcnu cyclophosphamide ctx doxorubicin dox melphalan lpam 
+unsynergy_190	several acyl derivative find superior dm-pen mx-1 human zr-75-1 breast tumor human u251 cns tumor p388 leukemia parent cell line line resistant cyclophosphamide carmustine 4-demethyl-4-methoxyacetylpenclomedine show inferior activity current clinical brain tumor drug glioma cell line superior activity temozolomide procarbazine derive mismatch repair-deficient cell line superior activity cyclophosphamide carmustine inferior activity temozolomide two ependymoma cell line implant s.c. 
+unsynergy_191	aldehyde dehydrogenase 3a1 aldh3a1 play important role many cellular oxidative process include cancer chemoresistance metabolize activate form oxazaphosphorine drug cyclophosphamide cp analogue mafosfamide mf ifosfamide ifm 4-hydroperoxycyclophosphamide 4-hpcp 
+unsynergy_192	dacarbazine methotrexate use comparative purpose 
+unsynergy_193	dasatinib cause dose-dependent decrease proliferation mcf7-tamr cell resensitize tamoxifen fulvestrant hcc1428-tamr 
+unsynergy_194	screening kinase phosphorylation use protein array functional proteomic analysis demonstrate combination fulvestrant dasatinib inhibit multiple tyrosine kinase cancer-related pathway constitutively activate lted cell 
+unsynergy_195	lted cell display increase insulin receptor insr / insulin-like growth factor 1 receptor igf-1r signaling add ant-igf-1 antibody combination fulvestrant dasatinib effort increase inhibition 
+unsynergy_196	interestingly cell line pdx model yes1 gene amplification present high sensitivity dasatinib sfk inhibitor point yes1 status stratification biomarker dasatinib response 
+unsynergy_197	potentially useful combination clinical study identify include docetaxel vinorelbine docetaxel dexrazoxane docetaxel cis-retinoic acid docetaxel disulfiram either doxorubicin epirubicin docetaxel dexrazoxane epirubicin 
+unsynergy_198	result docetaxel bortezomib alone significant cytotoxic effect 
+unsynergy_199	method pc-3-bcl-2 pc-3-neo human prostate cancer cell treat docetaxel and/or bortezomib addition irradiation analyze vitro proliferation clonogenic survival cell cycle phase distribution expression bcl-2 bcl-xl protein 
+unsynergy_200	cell line sensitize radiation killing effect treat combination docetaxel bortezomib treat either agent alone 
+unsynergy_201	conclusion first study demonstrate docetaxel bortezomib combination effectively sensitize bcl-2-overexpressing human prostate cancer cell radiation effect modulate expression key member bcl-2 family 
+unsynergy_202	together finding warrant evaluation combination docetaxel bortezomib prostate cancer 
+unsynergy_203	study show azt cisplatin cddp docetaxel dtx induce unique molecular response ovcar-3 ovarian carcinoma cell carry mutate p53 a2780 ovarian carcinoma mcf-7 breast carcinoma cell wild type p53 drug cause similar p53 response 
+unsynergy_204	sorafenib doxorubicin use reference drug 
+unsynergy_205	compound 19d ic50 = 1.2 ± 0.09 μm find potent derivative hepg2 2.9 time active doxorubicin ic50 = 3.45 ± 0.54 sorafenib ic50 = 3.5 ± 1.04 μm 
+unsynergy_206	cell culture model acquire resistance three clinically relevant ai letrozole anastrozole exemestane develop selection expansion colony mcf-7 breast cancer cell survive long-term ai treatment condition endogenous aromatase-mediated conversion androgen estrogen require growth 
+unsynergy_207	clinical trial underway compare fulvestrant exemestane appropriate therapy follow onset ai resistance 
+unsynergy_208	expression two angiogenic factor vegf angiopoetin-1 quantify different concentration doxorubicin docetaxel tamoxifen exemestane letrozol mcf-7 t47d cell 
+unsynergy_209	similar trial exemestane give 2-3 year tamoxifen compare 5 year tamoxifen recruit well study compare letrozole placebo 5 year 5 year adjuvant tamoxifen 
+unsynergy_210	mouse group receive letrozole exemestane 250 mug/d entinostat 50 mug/d combination entinostat letrozole exemestane 26 week 
+unsynergy_211	growth rate tumor mouse treat combination entinostat letrozole exemestane significantly slower single agent p 0.05 
+unsynergy_212	aromatase inhibitor ai letrozole femar / femara exemestane aromasin widely use treat estrogen receptor er positive breast cancer postmenopausal patient 
+unsynergy_213	patient randomize treatment start either letrozole exemestane least 2 month follow another 2 month alternative ai 
+unsynergy_214	importantly significantly higher total estrogenic activity find therapy exemestane compare letrozole 21 26 patient 
+unsynergy_215	letrozole include aroer tri-screen assay estrogenic activity sample collect exemestane treatment reduce suggest low level androgen remain specimen obtain exemestane treatment 
+unsynergy_216	present study serum estrogen activity significantly higher exemestane therapy compare letrozole therapy 
+unsynergy_217	compare antitumor activity z-endoxifen tamoxifen letrozole letrozole-sensitive mcf7 aromatase express model mcf7ac1 well tamoxifen fulvestrant exemestane exemestane plus everolimus letrozole-resistant mcf7 model mcf7lr 
+unsynergy_218	regard tumor volume reduction vivo zd4054 10 mg/kg equipotent fulvestrant 200 mg/kg exhibit additive effect anastrozole 0.5 mg/kg 
+unsynergy_219	compound 4d show superior activity methotrexate gefitinib sensitive leukemia cell line addition higher comparable activity rest sensitive cell line 
+unsynergy_220	combination therapy a549 nsclc model sorafenib gefitinib produce tgd equivalent produce sorafenib alone toxicity 
+unsynergy_221	concurrent administration sorafenib vinorelbine cisplatin gefitinib least efficacious individual agent alone well tolerate 
+unsynergy_222	gemcitabine sorafenib synergistically interact inhibition cell proliferation assessment apoptosis demonstrate drug association increase apoptotic index 
+unsynergy_223	sorafenib reduce c-kit erk activation gemcitabine inhibit akt phosphorylation 
+unsynergy_224	investigate whether sorafenib synergistic gemcitabine nsclc cell line 
+unsynergy_225	finally quantitative pcr analysis perform assess whether sorafenib gemcitabine modulate expression gene relate drug activity 
+unsynergy_226	moreover quantitative pcr show sorafenib modulate expression target relate gemcitabine activity gemcitabine induce expression rkip 
+unsynergy_227	datum demonstrate sorafenib gemcitabine synergistically interact nsclc cell suppression akt c-kit erk phosphorylation induction apoptosis modulation dck rrm1 rrm2 rkip gene expression 
+unsynergy_228	bcr-abl tyrosine kinase inhibitor tki imatinib dasatinib inhibit fludarabine cytarabine uptake 
+unsynergy_229	conclusion imatinib mesylate plus hydroxyurea well tolerate associate durable antitumor activity patient recurrent gbm 
+unsynergy_230	study design investigate effect celecoxib growth apoptosis human cml cell line k562 cell primary cml cell examine synergistic action celecoxib hydroxyurea imatinib k562 cell proliferation apoptosis 
+unsynergy_231	addition synergistic effect observe cell expose low-dose celecoxib 40 microm hydroxyurea 10 mm combination celecoxib 40 microm imatinib 0.2 microm 
+unsynergy_232	four patient include three patient treat interferon-alpha hydroxyurea one patient treat imatinib mesylate 26-82.5 positive cell 
+unsynergy_233	patient method patient gbm recurrence receive imatinib mesylate plus hydroxyurea 500 mg twice day orally continuous daily schedule 
+unsynergy_234	study aim investigate reversal effect tyrosine kinase inhibitor tki imatinib nilotinib multidrug-resistant cell line k562/a02 
+unsynergy_235	result show 0.0625 micromol/l imatinib 5 nmol/l nilotinib alone cytotoxic effect inhibition k562/a02 cell 
+unsynergy_236	k562/a02 cell treat imatinib nilotinib alone 48 hour expression mdr-1 mrna der/abl mrna p-gp p210 protein down-regulate furthermore effect nilotinib stronger imatinib 
+unsynergy_237	detection fluorescence intensity reveal dnr concentration k562/a02 cell treat imatinib nilotinib alone 48 hour 7.85 12.02 k562 cell respectively 
+unsynergy_238	nilotinib alter cytotoxicity high level impaired nk cytokine production imatinib direct influence nk cell reactivity 
+unsynergy_239	series acrylamide analogue design synthesize imatinib nilotinib novel bcr-abl inhibitor application principle nonclassical electronic isostere 
+unsynergy_240	take together believe result provide possible link bcr-abl signalling ros production nox activity demonstrate novel mechanism action associate imatinib nilotinib treatment cml 
+unsynergy_241	imatinib nilotinib chemotherapeutic drug specifically bind bcr-abl inhibit cancer cell 
+unsynergy_242	imatinib nilotinib interact abcb1 abcg2 
+unsynergy_243	imatinib nilotinib appear transport abcb1 interact strongly abcg2 
+unsynergy_244	herein demonstrate dose-dependent reversible inhibition abcg2-mediated hoechst 33342 dye efflux primary human murine hsc imatinib nilotinib amn107 novel aminopyrimidine inhibitor bcr-abl 
+unsynergy_245	apoptosis induce imatinib nilotinib determine bcr-abl expressing cell line primary cml cd34 cell 
+unsynergy_246	k562 80 inhibition bcr-abl auto-phosphorylation either imatinib nilotinib induce two fold increase bim-el expression induction apoptosis 48 h. 
+unsynergy_247	conclusion nilotinib imatinib induce apoptosis bim accumulation independently cell cycle arrest 
+unsynergy_248	finally hsp32/ho -1-targeting compound find synergize either imatinib nilotinib produce growth inhibition imatinib-resistant k562 cell ba/f3 cell harbor t315i mutant bcr/abl 
+unsynergy_249	study suggest human gct general unlikely respond imatinib nilotinib therapy 
+unsynergy_250	knockdown pdcd4 expression result reversal suppressive effect nilotinib imatinib mesylate leukemic progenitor colony formation suggest important role protein generation antileukemic response 
+unsynergy_251	inhibition bcr/abl imatinib nilotinib amn107 lead decrease expression plk1 protein cml cell suggest bcr/abl promote plk1 generation 
+unsynergy_252	moreover bi 2536 find synergize imatinib nilotinib produce growth inhibition cml cell 
+unsynergy_253	treat wild-type imatinib-resistant k562 cell imatinib nilotinib bortezomib respectively 
+unsynergy_254	vitro bcr-abl kinase inhibition use elucidate impact abcb1/abcg2 overexpression imatinib nilotinib transport 
+unsynergy_255	high level abcb1 protein k562-dox cell result significantly increase 50 inhibitory concentration ic 50 compare parental k562 cell imatinib ic 50 9 µm 19 µm p = 0.002 nilotinib ic 50 nil 345 nm 620 nm p = 0.013 
+unsynergy_256	similarly resistance nilotinib imatinib proportional expression level abcg2 
+unsynergy_257	study aim characterize difference nilotinib imatinib intracellular accumulation cytotoxic effect cml cell line k562 
+unsynergy_258	although nilotinib report effective imatinib-resistant abl kinase mutant drug overcome imatinib resistance acquire p-gp-overexpression 
+unsynergy_259	chronic myeloid leukemia cml patient relapse imatinib due acquire abl1 kinase domain mutation successfully treat second-generation abl1-tyrosine kinase inhibitor abl-tki dasatinib nilotinib ponatinib 
+unsynergy_260	moreover hek293 cell imatinib nilotinib intracellular accumulation lower variant compare wild-type model 
+unsynergy_261	bcr-abl inhibitor imatinib second-generation tyrosine kinase inhibitor dasatinib nilotinib remarkable efficacy cml treatment 
+unsynergy_262	reduction cell viability associate occurrence apoptotic characteristic observe human skov-3 ovarian cancer cell amn sorafenib sora imatinib sti stimulation 
+unsynergy_263	long-term exposure preserved cardiomyocyte four tyrosine kinase inhibitor sunitinib malate dasatinib sorafenib tosylate imatinib mesylate reveal potential induce cardiac toxicity manifest decrease contractility induction cell death toxicity observe acute experiment conduct time course amenable freshly prepared cardiomyocyte 
+unsynergy_264	pharmacological genetic inhibition nrf2 and/or treatment lapatinib erlotinib elevated cellular ros deplete glutathione 
+unsynergy_265	vitro mk-2206 synergistically inhibit cell proliferation human cancer cell line combination molecular target agent erlotinib epidermal growth factor receptor inhibitor lapatinib dual epidermal growth factor receptor/human epidermal growth factor receptor 2 inhibitor 
+unsynergy_266	lapatinib gefitinib induce cytotoxic effect mitochondrial membrane depolarization brc-230 skbr3 cell sorafenib induce apoptosis high rapid dissipation mitochondrial potential cell line 
+unsynergy_267	sorafenib exert cytotoxic effect ic50 value 32.0 μm contrast lapatinib ic50 136.6 μm 
+unsynergy_268	thus aim investigate antitumor effect sorafenib lapatinib alone combination mcf-7 breast cancer cell 
+unsynergy_269	cytotoxicity sorafenib lapatinib test mcf-7 cell xtt assay 50 25 12.5 6.25 μm concentration sorafenib 200 100 50 25μm concentration lapatinib administer alone combination 
+unsynergy_270	result evaluate absorbance 450nm ic50 value calculate accord absorbance datum sorafenib lapatinib show concentration dependent cytotoxic effect mcf-7 cell 
+unsynergy_271	sorafenib lapatinib combine lapatinib increase cytotoxic effect sorafenib ineffective concentration 
+unsynergy_272	present study show sorafenib lapatinib alone effective treatment breast cancer 
+unsynergy_273	bortezomib lenalidomide important drug treat myeloma 
+unsynergy_274	bortezomib 40 nmol/l 24 hour lenalidomide 3,200 nmol/l 24 hour effectively remove cd38 cd138 cell peripheral mononuclear cell 
+unsynergy_275	contrast lenalidomide exert favorable effect bortezomib contact stromal cell 
+unsynergy_276	multiple myeloma cell line rpmi8226 culture treat different concentration lenalidomide bortezomib determine proliferation inhibition rate apoptosis rate protein expression crbn 
+unsynergy_277	result reveal lenalidomide bortezomib inhibit proliferation rpmi8226 promote cell apoptosis 
+unsynergy_278	combination ruxolitinib bortezomib lenalidomide induce 72 cell death equivalent bortezomib lenalidomide dexamethasone combination use clinical practice 
+unsynergy_279	therefore aim present study investigate whether mv secrete human myeloma cell expose bortezomib lenalidomide affect angiogenesis 
+unsynergy_280	conclusion bortezomib lenalidomide treatment culture myeloma cell block mv-induced angiogenesis hence provide another mechanism anti-angiogenic therapy 
+unsynergy_281	materials method human myeloma cell line rpmi-8226 seoul korea treat bortezomib selleck chemicals houston tx usa lenalidomide sigma aldrich st. 
+unsynergy_282	mixture human peripheral blood mononuclear cell line pcs-800-011 atcc usa rpmi-8226 treat bortezomib lenalidomide 24 hour 
+unsynergy_283	result cytotoxicity bortezomib 10-160 nmol/l lenalidomide 200-3,200 nmol/l investigate rpmi-8226 myeloma cell line 
+unsynergy_284	conclusion result present study demonstrate bortezomib lenalidomide treatment rpmi-8226 multiple myeloma cell effectively remove contaminate plasma cell 
+unsynergy_285	lenalidomide demonstrate significant effect cell viability mda-mb-231 cell even high concentration whereas lenalidomide combination cisplatin significantly reduce cisplatin ic50 7.8 3.0 microm mda-mb-231 cell 
+unsynergy_286	lenalidomide treatment alone significantly reduce p-erk level compare control p 0.05 cisplatin treatment alone significantly increase p 0.01 however treatment combination significantly reduce p-erk level mda-mb-231 cell compare cisplatin treatment alone p 0.05 
+unsynergy_287	present study assess vitro effect lenalidomide combine cisplatin mda-mb-231 triple-negative breast cancer tnbc cell line explore underlie molecular mechanism combination 
+unsynergy_288	addition lenalidomide cisplatin combination significantly induce cell apoptosis 1.6 1.38-fold respectively compare lenalidomide cisplatin alone p 0.05 
+unsynergy_289	conclusion present study provide basis use lenalidomide combination cisplatin tnbc therapy 
+unsynergy_290	lenalidomide decrease ic 50 docetaxel 50 p 0.05 also decrease invasion pc3 lncap du145 cell anchorage independent growth pc3 cell p 0.01 
+unsynergy_291	lenalidomide may promising candidate combination docetaxel treatment crpc 
+unsynergy_292	study investigate effect combine lenalidomide docetaxel vitro vivo model prostate cancer potential strategy treatment castrate resistant prostate cancer crpc 
+unsynergy_293	effect combine lenalidomide docetaxel proliferation apoptosis invasive potential anchorage independent growth p53 activation pc3 du145 prostate cell line investigate 
+unsynergy_294	effect lenalidomide docetaxel combination lncap prostate cancer cell growth invasiveness vitro also study 
+unsynergy_295	thalidomide derivative lenalidomide pomalidomide imid effective treatment haematologic malignancy 
+unsynergy_296	hovon-87 / nmsg-18 trial eudract 2007-004007-34 compare melphalan-prednisone-thalidomide follow thalidomide maintenance mpt-t melphalan-prednisone-lenalidomide follow lenalidomide maintenance mpr-r 
+unsynergy_297	combination zd4054 either anastrozole letrozole produce significant reduction migration aromatase-overexpressing mcf-7aro cell p 0.05 
+unsynergy_298	palbociclib first cdk 4/6 inhibitor approve hr / her2 abc/mbc treatment canada combination letrozole p+l initial endocrine-based therapy approve march 2016 fulvestrant p+f follow disease progression prior endocrine therapy approve may 2017 
+unsynergy_299	antagonistic inhibitory effect cell growth methotrexate 5-fluoro-2 deoxyuridine combination observe independently drug concentration 
+unsynergy_300	effect observe early 1-3 h treat cell doxorubicin drug cisplatin methotrexate alter activation caga 12 luc reporter condition 
+unsynergy_301	next 5 μm adriamycin amd 20 μm cisplatin ddp 50 μm methotrexate mtx use treat a549 cell spc-a-1 cell 48 h. 
+unsynergy_302	antitumor activity thiarabine combination appear greater additive irinotecan dld-1 colon paclitaxel pc-3 prostate cisplatin pc-3 prostate cyclophosphamide rl lymphoma additive irinotecan nci-h460 nsclc cisplatin nci-h460 nsclc methotrexate ccrf-cem leukemia less additive irinotecan ht29 colon paclitaxel nci-h460 nsclc cisplatin nci-h23 nsclc 
+unsynergy_303	recently three abstract describe positive clinical outcome small number patient advanced breast cancer treat weekly infusion either methotrexate cisplatin azt 
+unsynergy_304	order shed light network resistance development establish drug-resistant doxorubicin dx methotrexate mtx cisplatin cispt vincristine vin derivative six tumour cell line jurkat u937 hl60 dohh-2 k562 arh77 haematopoetic origin 
+unsynergy_305	carbonate apatite demonstrate significant binding affinity towards methotrexate cyclophosphamide lead cellular toxicity free drug mcf-7 4t1 breast cancer cell 
+unsynergy_306	treatment cyclophosphamide alone without effect combination either methotrexate 5-fluorouracil induce increase activity 6pgdh alpha-gpdh 
+unsynergy_307	investigate chemotherapy agent interact leukemic cell death pathway examine apoptosis human lymphoblastic leukemia cell nalm-6 molt-4 treat various anticancer drug etoposide vp-16 camptothecin cpt adriamycin adr cytosine arabinoside ara-c methotrexate mtx 6 mercaptopurine 6mp cyclophosphamide cpm vincristine vcr prednisolone prd flow cytometric procedure 
+unsynergy_308	eight patient treat surgical resection radiation therapy adjuvant chemotherapy include cyclophosphamide c doxorubicin methotrexate m procarbazine p 
+unsynergy_309	theoretical pharmacological advantage 5.8 6 adriamycin adm 8 cisplatinum cddp 6.3 epidoxorubicin epi 22 58 5-fluorouracil 5fu 4.6 mitomycin c mmc 6.3 mitoxantrone nov 
+unsynergy_310	addition u73-975 treatment bcnu result additive cytotoxicity cell line however combination mitoxantrone bcnu result greater-than-additive cell killing parental cddp resistant cell line 
+unsynergy_311	profoundly decrease sensitivity towards mitoxantrone cisplatin observe cell express farnesylate akt 
+unsynergy_312	evaluate isobologram analysis addition either u73-975 mitoxantrone 1 h exposure cddp result greater-than-additive killing mcf-7 parent cell 
+unsynergy_313	u73-975 also greater-than-additive cytotoxicity cddp mcf-7 / cp line mitoxantrone cddp additive cytotoxicity cell 
+unsynergy_314	furthermore find her2 overexpression lead increase resistance mcf7 cell multiple antitumor drug paclitaxel taxol cisplatin ddp etoposide vp-16 adriamycin adm mitoxantrone mx 5-fluorouracil 5-fu 
+unsynergy_315	tumor cell binding microenvironment component collagen type 1 col1 attenuate sensitivity cytotoxic drug like cisplatin cddp mitoxantrone mx refer cell adhesion mediate drug resistance cam-dr 
+unsynergy_316	intracellular concentration doxorubicin mitoxantrone decrease upon cell cultivation col1 cellular cisplatin level remain unaffected 
+unsynergy_317	pc-3 tumor-bearing mouse administration combination lerafaon i.v. 25 mg/kg/dose x10/16 cisplatin i.v. 11.0 mg/kg/dose x3 epirubicin epi i.v. 9.0 mg/kg/dose x3 mitoxantrone mto i.v. 2.5 mg/kg/dose x3 lead enhance tumor growth inhibition compare single agent lerafaon cisplatin versus cisplatin p 0.0002 n = 8 lerafaon epi versus epi p 0.0001 n = 6 lerafaon mto versus mto p 0.05 n = 5 
+unsynergy_318	human breast carcinoma cell line hcc1937 hcc1143 treat doxorubicin hydrochloride pancreas adenocarcinoma cell line pa-tu-8902 gemcitabine hydrochloride prostate carcinoma cell line du145 docetaxel mitoxantrone hydrochloride lung carcinoma cell line nci-h460 treat docetaxel cisplatin 
+unsynergy_319	report examine efficacy irofulven alone combination mitoxantrone docetaxel androgen-independent prostate cancer cell line 
+unsynergy_320	study demonstrate irofulven display strong activity monotherapy combination mitoxantrone docetaxel androgen-independent prostate cancer vitro vivo thus support clinical investigation irofulven hormone-refractory prostate cancer 
+unsynergy_321	culture cell treat weekly mitoxantrone docetaxel two cycle cci-779 vehicle give course 
+unsynergy_322	activity mitoxantrone docetaxel limit cci-779 give course chemotherapy increase growth delay pc-3 xenograft 
+unsynergy_323	twenty-four hour later silibinin 10 20 40 microm either mitoxantrone docetaxel add designate well 
+unsynergy_324	ogx-011 small-interference rna chemosensitize pc-3dr cell docetaxel mitoxantrone vitro apoptotic rate pc-3dr cell significantly increase ogx-011 combine docetaxel 
+unsynergy_325	addition effect chemotherapeutic agent mitoxantrone docetaxel killing determine 
+unsynergy_326	mitoxantrone docetaxel able induce fas receptor expression primary prostate cancer cell translate 1.5 3-fold enhancement apoptosis mediate fasl 
+unsynergy_327	whereas mitoxantrone increase fas-induced apoptotic response culture prostate cell test docetaxel pretreatment find preferentially enhance killing bcl-2-expressing cell 
+unsynergy_328	find doxorubicin mitoxantrone repress atm transcription pc3 cell etoposide methotrexate affect atm expression 
+unsynergy_329	antagonistic combination imexon include methotrexate topoisomerase topo ii topo ii inhibitor irinotecan doxorubicin mitoxantrone etoposide 
+unsynergy_330	mitoxantrone cytarabine show synergism ci 1 combination nilotinib imatinib-sensitive lama84 cell whereas imatinib-resistant lama84-r cell synergistic effect assess daunorubicin mitoxantrone etoposide combine nilotinib 
+unsynergy_331	nilotinib significantly enhance cytotoxicity doxorubicin mitoxantrone cd34 ⁺ cd38 ⁻ cell lead increase apoptosis 
+unsynergy_332	moreover daunorubicin mitoxantrone lead synergistic antiproliferative effect combine nilotinib imatinib-resistant ba/f3 cell carry point mutation abl tk domain e255k e255v t315i 
+unsynergy_333	addition reveal synergism fisetin paclitaxel cell line-specific well fisetin synergize arsenic trioxide mitoxantrone methotrexate a549 cell 
+unsynergy_334	chelerythrine show additive effect mitoxantrone cell line paclitaxel pc3 cell 
+unsynergy_335	result suggest combination paclitaxel 13-cis-retinoic acid chelerythrine mitoxantrone paclitaxel may clinical value treatment hormone-refractory prostate cancer 
+unsynergy_336	characteristic apoptotic dna laddering cleavage poly adp-ribose polymerase observe combined treatment odn 2 plus paclitaxel mitoxantrone either agent alone 
+unsynergy_337	vivo administration odn 2 plus either paclitaxel mitoxantrone significantly decrease pc-3 tumor volume 80 60 respectively compare mismatch control odn plus either paclitaxel mitoxantrone 
+unsynergy_338	vivo growth pc-3dr xenograft nude mouse synergistically inhibit ogx-011 combine paclitaxel mitoxantrone 76 44 compare mismatch control respectively 
+unsynergy_339	zm323881 significantly decrease cytotoxic dose mitoxantrone sn-38 bcrp-overexpressing nci-h460 / mx20 cell 
+unsynergy_340	amifostine induce g1 arrest protect paclitaxel toxicity p53-proficient p53-deficient cell 
+unsynergy_341	variety binary ternary drug combination paclitaxel ptx docetaxel dtx 17-allylamino-17-demethoxygeldanamycin 17-aag etoposide eto bortezomib btz solubilize define polymeric micelle achieve unprecedented high total load capacity 50 wt drug per final formulation 
+unsynergy_342	drug treatment apoptosis rate paclitaxel group bortezomib group combination group 14.7 / 0.5 15.1 / 0.8 20.5 / 0.7 respectively 
+unsynergy_343	western blot assay show change expression level phosphorylate akt gsk-3beta decrease significantly paclitaxel bortezomib combination treatment 3.2 / 0.8 19.3 / 0.4 p 0.05 
+unsynergy_344	vitro combination v 4 q 5 ddavp sub-ic50 concentration paclitaxel carmustine result cooperative inhibition breast cancer cell growth comparison single-agent therapy 
+unsynergy_345	paclitaxel 5 100 nm cisplatin 10 microm etoposide 1 10 microm promote trail-induced apoptosis skrc-49 cell mediate increase trail receptor expression chemotherapeutic agents-induced akt inactivation ceramide formation derive sphingomyelin hydrolysis 
+unsynergy_346	find sti571 synergistic effect cisplatin bt-549 extent mda-mb-468 cell synergize camptothecin use alternate dosing regimen mda-mb-231 cell sti571 synergistically sensitize mda-mb-468 cell paclitaxel high dose 5-fluorouracil 
+unsynergy_347	seek confirm previous result he4 contribute collateral resistance cisplatin paclitaxel vitro uncover factor may contribute he4-mediated chemoresistance 
+unsynergy_348	azd8835 azd5363 sensitize chemoresistant ovarian cancer cell cisplatin paclitaxel treatment 
+unsynergy_349	sensitivity rate 91 carboplatin 270 microm 88 cisplatin 33 microm 41 paclitaxel 5.9 microm 85 topotecan 2.2 microm 
+unsynergy_350	additionally sr-t100 increase cisplatin paclitaxel sensitivity chemoresistant cell 
+unsynergy_351	chemotherapy drug test initial experiment include oral cyclophosphamide inject irinotecan paclitaxel alone doublet combination cyclophosphamide result indicate metronomic cyclophosphamide antitumor activity whereas metronomic irinotecan potent activity 
+unsynergy_352	work prepare simple redox-responsive micelle base mpeg-ss-c18 co-delivery system load paclitaxel ptx dasatinib das treatment mcf-7 / adr cell 
+unsynergy_353	result suggest cancer cell become resistant dasatinib process paclitaxel therapy patient may appear caution require design clinical trial use two agent 
+unsynergy_354	however clinically achievable level gefitinib moderately reverse pgp-mediated resistance paclitaxel docetaxel pgp overexpress cell 
+unsynergy_355	study compare cytotoxicity transport paclitaxel docetaxel novel taxane sb-t-1103 sb-t-1214 sb-t-1216 adriamycin-sensitive mda-mb-435 resistant nci/adr-res human breast cancer cell 
+unsynergy_356	nci/adr-res cell 1,000-fold resistant paclitaxel 600-fold resistant docetaxel mtt assay mda-mb-435 cell almost equally sensitive sb-t-1103 sb-t-1214 sb-t-1216 
+unsynergy_357	cell cycle characteristic dna fragmentation p53 p21 waf1/cip1 expression caspase-3 caspase-9 activity cytochrome c release mitochondria cell death induction taxane paclitaxel docetaxel highly-sensitive mda-mb-435 highly-resistant nci-adr-res human breast cancer cell compare 
+unsynergy_358	peloruside cause tumor growth inhibition tgi 84 95 respectively whereas standard treatment paclitaxel 8 mg/kg qd × 5 docetaxel 6.3 mg/kg q2d × 3 much less effective tgi 50 18 respectively 
+unsynergy_359	contrast paclitaxel ixabepilone display significantly reduce activity markedly increase resistance factor 
+unsynergy_360	since schedule-dependent effect combination may crucial use study interaction paclitaxel sn-38 active metabolite irinotecan various schedule four human cancer cell line culture 
+unsynergy_361	simultaneous exposure paclitaxel sn-38 24 h produce antagonistic subadditive protective effect human lung cancer cell line a549 breast cancer cell line mcf7 colon cancer cell line widr produce additive effect ovarian cancer cell line pa1 
+unsynergy_362	sequential exposure paclitaxel 24 h follow sn-38 24 h reverse sequence produce additive effect four cell line 
+unsynergy_363	response metastatic cap cell 5-fluorouracil 5-fu pemetrexed tomudex determine use cell count assay flow cytometry parp cleavage analysis 
+unsynergy_364	administration 5-fu pemetrexed potentiate cxcl8 secretion increase cxcr1 cxcr2 gene expression metastatic pc3 cell 
+unsynergy_365	pemetrexed folic acid antagonist inhibit synthesis precursor nucleotide whereas cisplatin directly induce dna adduct repair dependent sufficiently high nucleotide level 
+unsynergy_366	evaluate antitumor effect socs-1 gene delivery combine cisplatin plus pemetrex cell proliferation apoptosis invasion assay 
+unsynergy_367	furthermore evaluate inhibition tumor growth socs-1 gene delivery combine cisplatin plus pemetrex vivo 
+unsynergy_368	socs-1 gene delivery cooperate cisplatin plus pemetrex inhibit cell proliferation invasiveness induction apoptosis mpm cell 
+unsynergy_369	furthermore socs-1 gene delivery cooperate cisplatin plus pemetrex regulate nf-κb signaling significantly inhibit tumor growth mpm vivo 
+unsynergy_370	examine efficacy temsirolimus alone efficacy combination temsirolimus cisplatin pemetrex four mpm cell line use 3 4,5-dimethylthiazol-2-yl -2,5-diphenyl tetrazolium bromide mtt assay 
+unsynergy_371	combine bct-100 pemetrexed cisplatin confer additional benefit single agent 
+unsynergy_372	addition 24 h cisplatin treatment initiate day 1 2 3 result either simultaneous pemetrexed application pemetrexed pretreatment 24 48 h respectively 
+unsynergy_373	prolonged pemetrexed pretreatment 48 h prior cisplatin treatment maximally delay long-term cell growth significantly reduce number recover clone 
+unsynergy_374	pemetrex docetaxel show clinical activity variety solid tumor include lung cancer 
+unsynergy_375	pemetrex 24 h follow docetaxel 24 h produce additive effect a-549 cell synergistic effect lu-99 sbc-5 cell 
+unsynergy_376	docetaxel follow pemetrex produce additive effect a-549 lu-99 cell antagonistic effect sbc-5 cell 
+unsynergy_377	docetaxel pemetrex two drug commonly use effect single-phase cell culture well know 
+unsynergy_378	identify optimal schedule combination cytotoxic interaction pemetrexed docetaxel study various schedule use three human lung cancer cell line a-549 lu-99 sbc-5 vitro 
+unsynergy_379	cell incubate pemetrexed docetaxel simultaneously 24 120 h. 
+unsynergy_380	simultaneous exposure pemetrexed docetaxel 24 120 h produce antagonistic effect three cell line 
+unsynergy_381	sequential administration pemetrexed follow docetaxel may provide greatest anti-tumor effect combination treatment lung cancer 
+unsynergy_382	role cell cycle effect cp-4055 cp-4126 efficacy combination docetaxel pemetrexed determine 
+unsynergy_383	drug resistance cisplatine docetaxel pemetrexed also measure 
+unsynergy_384	consider present study aim establish first-line second-line adenocarcinoma treatment model use combination cisplatin docetaxel pemetrex vitro different sequential therapy timing 
+unsynergy_385	inhibitory effect determine add docetaxel follow treatment cisplatin pemetrexed pem-doc group compare group pemetrexed add subsequent treatment cisplatin docetaxel doc-pem group 
+unsynergy_386	role underlying mechanism gemcitabine irinotecan pemetrex docetaxel use single agent combine cisplatin overcome cisplatin-resistant non-small-cell lung cancer explore study 
+unsynergy_387	paper nanostructured target methotrexate mtx plus pemetrexed pmx chitosan nanoparticle cnp develop modify methoxy polye thylene glycol mpeg pegylation cnp use stealth nanocarrier pcnp mtx employ targeting ligand chemotherapeutic agent well 
+unsynergy_388	potent compound series 7 8 better inhibitor a549 cell methotrexate mtx pemetrexed pmx 
+unsynergy_389	particular compound 1-3 significantly potent positive control methotrexate mtx pemetrexed pmx a549 cell 
+unsynergy_390	pemetrex 24 h follow paclitaxel 24 h produce synergistic effect a549 mcf7 cell additive effect pa1 widr cell reverse sequence produce additive effect four cell line 
+unsynergy_391	study schedule-dependent cytotoxic effect pemetrex combination paclitaxel vitro improve understanding combination might use clinically 
+unsynergy_392	human lung cancer a549 cell breast cancer mcf7 ovarian cancer pa1 colon cancer widr cell expose pemetrexed paclitaxel vitro 
+unsynergy_393	simultaneous exposure pemetrexed paclitaxel 24 h produce antagonistic effect a549 pa1 cell additive/antagonistic effect mcf7 cell additive effect widr cell 
+unsynergy_394	finding suggest simultaneous administration pemetrexed paclitaxel suboptimal 
+unsynergy_395	optimal schedule pemetrex combination paclitaxel sequential administration pemetrexed follow paclitaxel schedule assess clinical trial treatment solid tumor 
+unsynergy_396	sorafenib see exhibit dose-dependent growth inhibition a549 cell sorafenib combine pemetrexed demonstrate greater synergism compare sorafenib combine gemcitabine 
+unsynergy_397	sorafenib arrest cell cycle g1 phase gemcitabine pemetrexed cause arrest s phase 
+unsynergy_398	cytotoxicity optimal combined modality mechanism underlie cytotoxic synergism sorafenib pemetrex egfr tki-resistant nsclc cell line investigate 
+unsynergy_399	a549 egfr wild-type kras mutation h1975 egfr mutation kras wild-type cell line treat pemetrexed and/or sorafenib vitro 
+unsynergy_400	cytotoxic interaction sorafenib pemetrex dose dependent egfr tki-resistant nsclc cell line 
+unsynergy_401	cell cycle analysis show sorafenib arrest cell mainly g1 phase pemetrexed arrest cell mainly s phase 
+unsynergy_402	sequence pemetrexed follow sorafenib synergistic effect advantage sequence egfr tki-resistant nsclc cell line 
+unsynergy_403	present study vitro antitumor effect correlate molecular mechanism sorafenib combine gemcitabine pemetrex explore k-ras mutation-positive nsclc a549 cell line 
+unsynergy_404	moreover sorafenib pemetrexed demonstrate stronger synergism demonstrate inhibit ras/raf/mek / erk ras/pi3k/akt pathway concurrently may achieve improved antitumor effect 
+unsynergy_405	procarbazine pcb produce significant response five tumor line carmustine produce significant growth delay two mithramycin produce slight growth delay one 
+unsynergy_406	mithramycin decrease eps8 expression lcl result decrease cellular sensitivity cisplatin evidence lower caspase 3/7 activation follow cisplatin treatment 42.7 ± 6.8 relative control p = 0.0002 
+unsynergy_407	add mithramycin 4 nsclc cell line bladder cancer cell line result increase sensitivity cisplatin significantly pronounced tumor cell line lcl line p 0.0001 
+unsynergy_408	egfr mutant nsclc cell line h1975 show significant change sensitivity cisplatin addition mithramycin treatment 
+unsynergy_409	therefore inhibitor eps8 mithramycin improve cisplatin treatment increase sensitivity tumor relative normal cell 
+unsynergy_410	breast tissue er antagonist raloxifene fulvestrant affect tfpi mrna however fulvestrant block oestrogen mediated reduction tfpi mrna 
+unsynergy_411	sulfation afimoxifene endoxifen raloxifene fulvestrant metabolic condition examine use hepg2 human hepatoma cell mcf-7 breast cancer cell 
+unsynergy_412	selective estrogen receptor modulator serm agent prevention osteoporosis postmenopausal woman raloxifene ral decrease high-dose methotrexate mtx cytotoxicity mcf-7 breast cancer cell 
+unsynergy_413	evaluate expression function cxcr4 cd26 colon cancer cell line xenograft follow treatment common chemotherapy use radioligand binding flow cytometry immunofluorescence enzymatic assay 5-fluorouracil oxaliplatin sn-38 active metabolite irinotecan well cisplatin methotrexate vinblastine cause decrease cell-surface cxcr4 concomitant increase cd26 ht-29 t84 hrt-18 sw480 sw620 crc cell line 
+unsynergy_414	proliferation assay also achieve vitro different colon cancer cell line expose sn-38 sunitinib alone combination 
+unsynergy_415	moreover combination sn-38 sunitinib cause synergism colon cancer cell significant inhibition abcg2 gene expression increase sn-38 intracellular concentration 
+unsynergy_416	sorafenib bortezomib synergistically induce marked increase mitochondrial injury apoptosis reflect cytochrome c release caspase-3 cleavage poly adp-ribose polymerase degradation broad range solid tumor leukemia cell line 
+unsynergy_417	study undertake characterize preclinical cytotoxic interaction human malignancy multikinase inhibitor sorafenib bay 43-9006 proteasome inhibitor bortezomib mg132 
+unsynergy_418	multiple tumor cell line vary histiotype include a549 lung adenocarcinoma 786-o renal cell carcinoma hela cervical carcinoma mda-mb-231 breast k562 chronic myelogenous leukemia jurkat acute t-cell leukemia mec-2 b-chronic lymphocytic leukemia u251 d37 glioma well cell derive primary human glioma tumor likely clinically relevant model treat sorafenib bortezomib alone combination 
+unsynergy_419	finding show sorafenib interact synergistically bortezomib induce apoptosis broad spectrum neoplastic cell line show important role akt jnk pathway mediate synergism 
+unsynergy_420	sorafenib sunitinib multi-kinase inhibitor antitumor activity patient advanced renal cell carcinoma rcc 
+unsynergy_421	caki-1 xenograft model prepare inoculate cell subcutaneously nude mouse divide randomly six group control 5fu 8 mg/kg/day intraperitoneally sorafenib 15 mg/kg/day orally sunitinib 20 mg/kg/day orally 5fu sorafenib sunitinib 
+unsynergy_422	stringent selection use high dose o 6 benzylguanine 800 micromol/l temozolomide 1,000 micromol/l bcnu 20 micromol/l administer twice follow regrowth survive clone isolate mgmt transgene sequence 
+unsynergy_423	human hsc overexpression transgene vector also cause significantly increase survival enrichment transduce cell treatment bcnu plus doxorubicin temozolomide plus paclitaxel 
+unsynergy_424	test chemopotentiate ability parp-1 inhibitor cep-6800 use combination temozolomide tmz irinotecan camptothecin sn38 cisplatin u251mg glioblastoma ht29 colon carcinoma calu-6 non-small cell lung carcinoma xenograft cell line respectively 
+unsynergy_425	src inhibitor block growth melanoma cell line furthermore src inhibitor treatment synergize cisplatin temozolomide paclitaxel 
+unsynergy_426	sorafenib also significantly enhance anti-cancer effect low dose etoposide paclitaxel temozolomide sk-mel-2 melanoma cell produce additive effect inhibition cell growth case 
+unsynergy_427	several compound find powerful chemopotentiator temozolomide topotecan a549 lovo cell line 
+unsynergy_428	whole cell parp-1 inhibition intrinsic cell growth inhibition chemopotentiation cytotoxic agent temozolomide tm topotecan tp evaluate lovo human colon carcinoma cell 
+unsynergy_429	ag14361 0.4 micro m affect cancer cell gene expression growth increase antiproliferative activity temozolomide e.g. lovo cell 5.5-fold 95 confidence interval ci = 4.9-fold 5.9-fold p = .004 topotecan e.g. lovo cell 1.6-fold 95 ci = 1.3-fold 1.9-fold p = .002 inhibit recovery potentially lethal gamma-radiation damage lovo cell 73 95 ci = 48 98 
+unsynergy_430	evaluate chemosensitization temozolomide topotecan use lovo sw620 human colorectal cell vitro radiosensitization measure use lovo cell enhancement antitumor activity temozolomide evaluate mouse bear sw620 xenograft 
+unsynergy_431	excellent chemopotentiation radiopotentiation observe vitro 17 compound cause greater temozolomide topotecan sensitization benchmark inhibitor ag14361 10 compound potent radiosensitizer ag14361 
+unsynergy_432	loss mmr also associate tumor cell resistance cytotoxic effect 6-thioguanine cisplatin hypersensitivity n 2-chloroethyl n cyclohexyl n-nitrosourea ccnu 
+unsynergy_433	combination tg tm either docetaxel vincristine show additional cytotoxic effect mdr subline 
+unsynergy_434	test hypothesis sensitivity 6-mp 6-tg compare relation mtap status use cytotoxicity assay two mtap-deficient cell line transfect express mtap t-cell acute lymphoblastic leukemic cell line jurkat transfect mtap cdna control tetracycline-inducible promoter lung cancer cell line a549-mtap transfect express mtap constitutively a549-mtap 
+unsynergy_435	intestinal epithelial cell line human caco-2 t-84 ht-29 cell rat iec-6 cell incubate aza 6-mp 6-tg 24 h final concentration 0.1-10 microm 
+unsynergy_436	contrast aza 6-mp 6-tg induce cell cycle arrest caco-2 t-84 iec-6 cell 
+unsynergy_437	aza 6-mp well 6-tg induce apoptosis non-transformed iec-6 cell line human caco-2 t-84 ht-29 cell 
+unsynergy_438	since intravenous preparation 6-mp longer available since oral 6-thioguanine 6-tg provide higher level intracellular thioguanine nucleotide isotoxic dose oral 6-mp investigate potential drug synergism 6-tg plus ara-c plus peg-asnase tgap myeloid hl60/s hl60/sn3 u937 lymphoblastic cem/0 cem / ara-c/b cem/ara-c/i molt-4 leukemia cell line 
+unsynergy_439	take together result show cnt3 ent2 play key role transport 6-mp 6-tg leukemia cell 
+unsynergy_440	thiopurine methyltransferase tpmt one important enzyme process metabolize 6-mp 6-tg different methylate metabolite include methylthioinosine monophosphate metimp methylthioguanosine monophosphate metgmp respectively different suggest pharmacological cytotoxic property 
+unsynergy_441	result show 34 increase sensitivity molt4 cell 1μm 6-tg treatment tpmt-targeting sirna compare cell transfect non-targeting sirna sensitivity cell toward 6-mp affect significantly down-regulation tpmt gene 
+unsynergy_442	exposure molt4 human t-cell leukemia cell 6-mercaptopurine 6-mp 6-thioguanine 6-tg result acquire resistance associate attenuate expression gene encode concentrative nucleoside transporter 3 cnt3 equilibrative nucleoside transporter 2 ent2 
+unsynergy_443	present study hitherto unknown effect aza well metabolite 6-mp 6-thioguanine 6-tg repair mechanism apoptosis intestinal epithelia analyse 
+unsynergy_444	human molt4 t-lymphoblastic leukaemia cell acquire resistance 6-mp 6-thioguanine 6-tg consequence defective transport exhibit enhance sensitivity mempr 
+unsynergy_445	thiopurine 6-mercaptopurine 6-mp 6-thioguanine 6-tg use treatment leukemia 
+unsynergy_446	mechanism resistance thiopurine 6-mercaptopurine 6-mp 6-thioguanine 6-tg investigate human leukemia cell line 
+unsynergy_447	order better understand mechanism resistance thiopurine study two subline molt4 t-lymphoblastic leukemia cell line resistant 6-mercaptopurine 6-mp 6-thioguanine 6-tg 
+unsynergy_448	thiopurine antimetabolite 6-mercaptopurine 6-mp 6-thioguanine 6-tg inactive pro-drug require intracellular metabolism activation cytotoxic metabolite 
+unsynergy_449	thiopurine efficacy partly reflect genetic polymorphism thiopurine methyltransferase tpmt enzyme responsible variation metabolism toxicity therapeutic efficacy thiopurine azathioprine aza 6-mercaptopurine 6-mp 6-thioguanine 6-tg 
+unsynergy_450	inhibition purine de novo synthesis enhancement 6-mercaptopurine 6mp bioavailability high-dose methotrexate hdm may increase incorporation dna 6-thioguanine nucleotide 6tgn cytoxic metabolite 6mp 
+unsynergy_451	thiopurine include mercaptopurine mp 6-thioguanine s g azathioprine widely use treatment many human disease include acute lymphoblastic leukemia 
+unsynergy_452	use mercaptopurine mp rather thioguanine tg treatment childhood acute lymphoblastic leukemia occur historical reason pharmacologic basis 
+unsynergy_453	isothermal microcalorimetry use order continuously monitor quantitatively assess action two antineoplastic drug methotrexate mtx 6-thioguanine 6-tg human t-lymphoma cell line ccrf-cem 
+unsynergy_454	ccrf-cem mtap / molt4 mtap / t-cell cell line treat 6-tg pdx evaluate efficacy 72 h later 
+unsynergy_455	nod/scid gamma mouse bear cem molt4 xenograft treat 6-tg pdx alone combination evaluate antitumor effect 
+unsynergy_456	cem cell sensitive 6-tg pdx vitro molt4 
+unsynergy_457	well-tolerated combination pdx 6-tg achieve significant tumor regression cem xenograft 
+unsynergy_458	investigate effectiveness combination 6-thioguanine 6-tg pralatrexate pdx methylthioadenosine phosphorylase mtap deficient t-cell acute lymphoblastic leukemia t-cell 
+unsynergy_459	mcf-7 / cddp cell line subline mcf-7 human breast carcinoma cell line resistant cis-diamminedichloroplatinum ii also resistant carboplatin d-tetraplatin lesser degree melphalan thiotepa bcnu compare mcf-7 parental cell line 
+unsynergy_460	precede high-dose chemotherapy consist cyclophosphamide 6 g/m2 thiotepa 800 mg/m2 
+unsynergy_461	interestingly atra treatment sensitize mm cell bortezomib hypoxia 
